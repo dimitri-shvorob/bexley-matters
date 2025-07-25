@@ -1,0 +1,290 @@
+borough,year,value,borough_right,inner_outer,area,population,party,value_per_capita
+Barking and Dagenham,2016,2190630,Barking and Dagenham,Outer London,13.93,212906,Labour,10.289188656026603
+Barnet,2016,4682956,Barnet,Outer London,33.49,395896,Labour,11.828753005839918
+Bexley,2016,4009921,Bexley,Outer London,23.38,248287,Conservatives,16.15034617197034
+Brent,2016,3854048,Brent,Outer London,16.7,329771,Labour,11.687043433170292
+Bromley,2016,4294500,Bromley,Outer London,57.97,332336,Conservatives,12.922163112031198
+Camden,2016,4197308,Camden,Inner London,8.4,270029,Labour,15.543915653503882
+Westminster,2016,8758155,Westminster,Inner London,8.29,261317,Labour,33.515442929468804
+Croydon,2016,4733809,Croydon,Outer London,33.41,386710,Conservatives,12.241237619921906
+Ealing,2016,4005596,Ealing,Outer London,21.44,341806,Labour,11.718916578409976
+Enfield,2016,4826500,Enfield,Outer London,31.74,333794,Labour,14.459516947578447
+Greenwich,2016,4899045,Greenwich,Outer London,18.28,287942,Labour,17.013999347090735
+Hackney,2016,4122000,Hackney,Inner London,7.36,281120,Labour,14.662777461582243
+Hammersmith and Fulham,2016,3329500,Hammersmith and Fulham,Inner London,6.33,185143,Labour,17.983396617749523
+Haringey,2016,4762492,Haringey,Outer London,11.42,268647,Labour,17.7276947071808
+Harrow,2016,2599154,Harrow,Outer London,19.49,251160,Conservatives,10.348598502946329
+Havering,2016,2908444,Havering,Outer London,43.35,259552,Other,11.205631241523857
+Hillingdon,2016,3988249,Hillingdon,Outer London,44.67,306870,Conservatives,12.996542509857594
+Hounslow,2016,2786000,Hounslow,Outer London,21.61,271523,Labour,10.260640903348888
+Islington,2016,2758393,Islington,Inner London,5.74,242467,Labour,11.376364618690378
+Kensington and Chelsea,2016,3258908,Kensington and Chelsea,Inner London,4.68,156129,Labour,20.873175387019707
+Kingston upon Thames,2016,2815188,Kingston upon Thames,Outer London,14.38,177507,LibDem,15.859588635941117
+Lambeth,2016,4061183,Lambeth,Inner London,10.36,326034,Labour,12.456317439285474
+Lewisham,2016,3995670,Lewisham,Inner London,13.57,305842,Labour,13.064490815519124
+Merton,2016,2402880,Merton,Outer London,14.52,206548,Labour,11.633518601003157
+Newham,2016,3329440,Newham,Outer London,13.98,353134,Labour,9.428262359331018
+Redbridge,2016,3451277,Redbridge,Outer London,21.78,305222,Labour,11.307431967551487
+Richmond upon Thames,2016,2618694,Richmond upon Thames,Outer London,22.17,198019,LibDem,13.224458259055949
+Southwark,2016,4514000,Southwark,Inner London,11.14,318830,Labour,14.158015243233072
+Sutton,2016,1622000,Sutton,Outer London,16.93,206349,LibDem,7.860469398930937
+Tower Hamlets,2016,3551000,Tower Hamlets,Inner London,7.63,324745,Labour,10.934733406211027
+Waltham Forest,2016,4460889,Waltham Forest,Outer London,14.99,276983,Labour,16.105280829509393
+Wandsworth,2016,3139925,Wandsworth,Inner London,13.23,329677,Labour,9.524246459413305
+Barking and Dagenham,2017,2102000,Barking and Dagenham,Outer London,13.93,212906,Labour,9.872901656129935
+Barnet,2017,4911379,Barnet,Outer London,33.49,395896,Labour,12.40573029280417
+Bexley,2017,2627129,Bexley,Outer London,23.38,248287,Conservatives,10.581017129370446
+Brent,2017,3408505,Brent,Outer London,16.7,329771,Labour,10.335975570926491
+Bromley,2017,3712300,Bromley,Outer London,57.97,332336,Conservatives,11.170321602233884
+Camden,2017,3046842,Camden,Inner London,8.4,270029,Labour,11.283388080539497
+Westminster,2017,5065804,Westminster,Inner London,8.29,261317,Labour,19.38566568573801
+Croydon,2017,5193985,Croydon,Outer London,33.41,386710,Conservatives,13.431214605259756
+Ealing,2017,3829200,Ealing,Outer London,21.44,341806,Labour,11.202846058875503
+Enfield,2017,4287165,Enfield,Outer London,31.74,333794,Labour,12.843744944486719
+Greenwich,2017,3656664,Greenwich,Outer London,18.28,287942,Labour,12.699307499426968
+Hackney,2017,2838000,Hackney,Inner London,7.36,281120,Labour,10.09533295389869
+Hammersmith and Fulham,2017,3071000,Hammersmith and Fulham,Inner London,6.33,185143,Labour,16.587178559275802
+Haringey,2017,2920750,Haringey,Outer London,11.42,268647,Labour,10.87207376222329
+Harrow,2017,2452995,Harrow,Outer London,19.49,251160,Conservatives,9.766662685140947
+Havering,2017,2850169,Havering,Outer London,43.35,259552,Other,10.981109758352854
+Hillingdon,2017,3131408,Hillingdon,Outer London,44.67,306870,Conservatives,10.204347117671979
+Hounslow,2017,2646000,Hounslow,Outer London,21.61,271523,Labour,9.745030807703214
+Islington,2017,2190778,Islington,Inner London,5.74,242467,Labour,9.035365637385706
+Kensington and Chelsea,2017,2092000,Kensington and Chelsea,Inner London,4.68,156129,Labour,13.399176322143868
+Kingston upon Thames,2017,1897001,Kingston upon Thames,Outer London,14.38,177507,LibDem,10.68690812193322
+Lambeth,2017,3090985,Lambeth,Inner London,10.36,326034,Labour,9.480560309660955
+Lewisham,2017,2664565,Lewisham,Inner London,13.57,305842,Labour,8.712227228438213
+Merton,2017,1837025,Merton,Outer London,14.52,206548,Labour,8.893937486685903
+Newham,2017,3392290,Newham,Outer London,13.98,353134,Labour,9.606240124145508
+Redbridge,2017,2617679,Redbridge,Outer London,21.78,305222,Labour,8.57631166822837
+Richmond upon Thames,2017,3327005,Richmond upon Thames,Outer London,22.17,198019,LibDem,16.80144329584535
+Southwark,2017,3709000,Southwark,Inner London,11.14,318830,Labour,11.633158736630806
+Sutton,2017,1238191,Sutton,Outer London,16.93,206349,LibDem,6.000470077393154
+Tower Hamlets,2017,1835797,Tower Hamlets,Inner London,7.63,324745,Labour,5.653041617268934
+Waltham Forest,2017,4022105,Waltham Forest,Outer London,14.99,276983,Labour,14.521125845268482
+Wandsworth,2017,2297000,Wandsworth,Inner London,13.23,329677,Labour,6.967425692420156
+Barking and Dagenham,2018,1733000,Barking and Dagenham,Outer London,13.93,212906,Labour,8.139742421538143
+Barnet,2018,3598778,Barnet,Outer London,33.49,395896,Labour,9.090210560349183
+Bexley,2018,1986300,Bexley,Outer London,23.38,248287,Conservatives,8.000016110388382
+Brent,2018,3213368,Brent,Outer London,16.7,329771,Labour,9.744240700364799
+Bromley,2018,2431000,Bromley,Outer London,57.97,332336,Conservatives,7.3148861393288716
+Camden,2018,3632130,Camden,Inner London,8.4,270029,Labour,13.450888608260595
+Westminster,2018,4470398,Westminster,Inner London,8.29,261317,Labour,17.10718399491805
+Croydon,2018,5031313,Croydon,Outer London,33.41,386710,Conservatives,13.010558299500918
+Ealing,2018,3708000,Ealing,Outer London,21.44,341806,Labour,10.848258953909527
+Enfield,2018,3414480,Enfield,Outer London,31.74,333794,Labour,10.2293031031115
+Greenwich,2018,3563809,Greenwich,Outer London,18.28,287942,Labour,12.376829361468628
+Hackney,2018,2418500,Hackney,Inner London,7.36,281120,Labour,8.60308764940239
+Hammersmith and Fulham,2018,2855000,Hammersmith and Fulham,Inner London,6.33,185143,Labour,15.420512792814202
+Haringey,2018,3356000,Haringey,Outer London,11.42,268647,Labour,12.492229580080924
+Harrow,2018,1817974,Harrow,Outer London,19.49,251160,Conservatives,7.238310240484154
+Havering,2018,1725730,Havering,Outer London,43.35,259552,Other,6.6488796079398345
+Hillingdon,2018,4141700,Hillingdon,Outer London,44.67,306870,Conservatives,13.496594649199986
+Hounslow,2018,2727000,Hounslow,Outer London,21.61,271523,Labour,10.043348077326783
+Islington,2018,2165959,Islington,Inner London,5.74,242467,Labour,8.933005316187357
+Kensington and Chelsea,2018,1588916,Kensington and Chelsea,Inner London,4.68,156129,Labour,10.17694342498831
+Kingston upon Thames,2018,1498000,Kingston upon Thames,Outer London,14.38,177507,LibDem,8.439103809990591
+Lambeth,2018,2110547,Lambeth,Inner London,10.36,326034,Labour,6.4733954127483635
+Lewisham,2018,2373071,Lewisham,Inner London,13.57,305842,Labour,7.759140340437219
+Merton,2018,1476024,Merton,Outer London,14.52,206548,Labour,7.146154888936228
+Newham,2018,3278907,Newham,Outer London,13.98,353134,Labour,9.285163705562194
+Redbridge,2018,3135000,Redbridge,Outer London,21.78,305222,Labour,10.271212428986114
+Richmond upon Thames,2018,2606000,Richmond upon Thames,Outer London,22.17,198019,LibDem,13.160353299430863
+Southwark,2018,3548461,Southwark,Inner London,11.14,318830,Labour,11.129633346924694
+Sutton,2018,1173555,Sutton,Outer London,16.93,206349,LibDem,5.687233764156841
+Tower Hamlets,2018,2690687,Tower Hamlets,Inner London,7.63,324745,Labour,8.285537883570186
+Waltham Forest,2018,3209082,Waltham Forest,Outer London,14.99,276983,Labour,11.585844618622804
+Wandsworth,2018,2330946,Wandsworth,Inner London,13.23,329677,Labour,7.0703931423787525
+Barking and Dagenham,2019,1127000,Barking and Dagenham,Outer London,13.93,212906,Labour,5.293415873671949
+Barnet,2019,3300536,Barnet,Outer London,33.49,395896,Labour,8.336876351365005
+Bexley,2019,1606419,Bexley,Outer London,23.38,248287,Conservatives,6.470008498229871
+Brent,2019,3196200,Brent,Outer London,16.7,329771,Labour,9.692180331199529
+Bromley,2019,4002800,Bromley,Outer London,57.97,332336,Conservatives,12.044436955370468
+Camden,2019,4544526,Camden,Inner London,8.4,270029,Labour,16.829770135800228
+Westminster,2019,6635011,Westminster,Inner London,8.29,261317,Labour,25.3906596203079
+Croydon,2019,3501431,Croydon,Outer London,33.41,386710,Conservatives,9.054410281606371
+Ealing,2019,5126760,Ealing,Outer London,21.44,341806,Labour,14.999034540060736
+Enfield,2019,4329554,Enfield,Outer London,31.74,333794,Labour,12.970736442236829
+Greenwich,2019,2828530,Greenwich,Outer London,18.28,287942,Labour,9.823263018246731
+Hackney,2019,2998857,Hackney,Inner London,7.36,281120,Labour,10.66753343767786
+Hammersmith and Fulham,2019,2294000,Hammersmith and Fulham,Inner London,6.33,185143,Labour,12.390422538254214
+Haringey,2019,4103445,Haringey,Outer London,11.42,268647,Labour,15.274486593931814
+Harrow,2019,1715812,Harrow,Outer London,19.49,251160,Conservatives,6.831549609810479
+Havering,2019,2496130,Havering,Outer London,43.35,259552,Other,9.617070953026754
+Hillingdon,2019,2470345,Hillingdon,Outer London,44.67,306870,Conservatives,8.050135236419331
+Hounslow,2019,3555393,Hounslow,Outer London,21.61,271523,Labour,13.094260891342538
+Islington,2019,2226518,Islington,Inner London,5.74,242467,Labour,9.18276713944578
+Kensington and Chelsea,2019,2354000,Kensington and Chelsea,Inner London,4.68,156129,Labour,15.077275842412364
+Kingston upon Thames,2019,1636873,Kingston upon Thames,Outer London,14.38,177507,LibDem,9.221456055254158
+Lambeth,2019,3843461,Lambeth,Inner London,10.36,326034,Labour,11.78852819031144
+Lewisham,2019,2795127,Lewisham,Inner London,13.57,305842,Labour,9.139120853251026
+Merton,2019,2479163,Merton,Outer London,14.52,206548,Labour,12.002841954412533
+Newham,2019,4558730,Newham,Outer London,13.98,353134,Labour,12.909348859073326
+Redbridge,2019,2523252,Redbridge,Outer London,21.78,305222,Labour,8.266940128824265
+Richmond upon Thames,2019,1549981,Richmond upon Thames,Outer London,22.17,198019,LibDem,7.827435751114792
+Southwark,2019,3629529,Southwark,Inner London,11.14,318830,Labour,11.383900511244237
+Sutton,2019,1734500,Sutton,Outer London,16.93,206349,LibDem,8.405662251816098
+Tower Hamlets,2019,2983592,Tower Hamlets,Inner London,7.63,324745,Labour,9.18749172427597
+Waltham Forest,2019,4906111,Waltham Forest,Outer London,14.99,276983,Labour,17.712679117490964
+Wandsworth,2019,2669561,Wandsworth,Inner London,13.23,329677,Labour,8.097504527158401
+Barking and Dagenham,2020,733000,Barking and Dagenham,Outer London,13.93,212906,Labour,3.4428339267094397
+Barnet,2020,1470672,Barnet,Outer London,33.49,395896,Labour,3.7147937842261602
+Bexley,2020,1101996,Bexley,Outer London,23.38,248287,Conservatives,4.438395888628885
+Brent,2020,2436629,Brent,Outer London,16.7,329771,Labour,7.388851657665471
+Bromley,2020,1815298,Bromley,Outer London,57.97,332336,Conservatives,5.462237013143325
+Camden,2020,1899368,Camden,Inner London,8.4,270029,Labour,7.033940798951224
+Westminster,2020,1539510,Westminster,Inner London,8.29,261317,Labour,5.891350352254158
+Croydon,2020,1922870,Croydon,Outer London,33.41,386710,Conservatives,4.972382405420082
+Ealing,2020,1868151,Ealing,Outer London,21.44,341806,Labour,5.465530154532103
+Enfield,2020,2653950,Enfield,Outer London,31.74,333794,Labour,7.95086190884198
+Greenwich,2020,1107315,Greenwich,Outer London,18.28,287942,Labour,3.8456182147793654
+Hackney,2020,1428224,Hackney,Inner London,7.36,281120,Labour,5.080478087649403
+Hammersmith and Fulham,2020,922825,Hammersmith and Fulham,Inner London,6.33,185143,Labour,4.984390444143176
+Haringey,2020,1493358,Haringey,Outer London,11.42,268647,Labour,5.558811377011469
+Harrow,2020,1627233,Harrow,Outer London,19.49,251160,Conservatives,6.4788700430004775
+Havering,2020,832481,Havering,Outer London,43.35,259552,Other,3.2073765565281716
+Hillingdon,2020,1097780,Hillingdon,Outer London,44.67,306870,Conservatives,3.5773454557304394
+Hounslow,2020,1759000,Hounslow,Outer London,21.61,271523,Labour,6.478272558862416
+Islington,2020,899673,Islington,Inner London,5.74,242467,Labour,3.710496686146981
+Kensington and Chelsea,2020,865860,Kensington and Chelsea,Inner London,4.68,156129,Labour,5.545798666487328
+Kingston upon Thames,2020,710393,Kingston upon Thames,Outer London,14.38,177507,LibDem,4.0020562569363465
+Lambeth,2020,1710252,Lambeth,Inner London,10.36,326034,Labour,5.245624689449566
+Lewisham,2020,1641882,Lewisham,Inner London,13.57,305842,Labour,5.368399369609144
+Merton,2020,1713205,Merton,Outer London,14.52,206548,Labour,8.294464240757597
+Newham,2020,1870194,Newham,Outer London,13.98,353134,Labour,5.295989624335238
+Redbridge,2020,884790,Redbridge,Outer London,21.78,305222,Labour,2.898840843713756
+Richmond upon Thames,2020,1267285,Richmond upon Thames,Outer London,22.17,198019,LibDem,6.399815169251435
+Southwark,2020,1715417,Southwark,Inner London,11.14,318830,Labour,5.3803500297964435
+Sutton,2020,508632,Sutton,Outer London,16.93,206349,LibDem,2.464911387988311
+Tower Hamlets,2020,1431179,Tower Hamlets,Inner London,7.63,324745,Labour,4.407085559438944
+Waltham Forest,2020,2573092,Waltham Forest,Outer London,14.99,276983,Labour,9.289710920886842
+Wandsworth,2020,1182890,Wandsworth,Inner London,13.23,329677,Labour,3.588027068918972
+Barking and Dagenham,2021,1185000,Barking and Dagenham,Outer London,13.93,212906,Labour,5.565836566372014
+Barnet,2021,1084278,Barnet,Outer London,33.49,395896,Labour,2.7387950370804455
+Bexley,2021,690883,Bexley,Outer London,23.38,248287,Conservatives,2.78259836399006
+Brent,2021,2109000,Brent,Outer London,16.7,329771,Labour,6.395347074181781
+Bromley,2021,1236000,Bromley,Outer London,57.97,332336,Conservatives,3.719127629868567
+Camden,2021,3127997,Camden,Inner London,8.4,270029,Labour,11.583929874198697
+Westminster,2021,2231000,Westminster,Inner London,8.29,261317,Labour,8.537523391130312
+Croydon,2021,1272626,Croydon,Outer London,33.41,386710,Conservatives,3.290905329575134
+Ealing,2021,812000,Ealing,Outer London,21.44,341806,Labour,2.375616577824848
+Enfield,2021,2544978,Enfield,Outer London,31.74,333794,Labour,7.624397083230975
+Greenwich,2021,872187,Greenwich,Outer London,18.28,287942,Labour,3.0290370977488523
+Hackney,2021,2478457,Hackney,Inner London,7.36,281120,Labour,8.816366676152533
+Hammersmith and Fulham,2021,1344000,Hammersmith and Fulham,Inner London,6.33,185143,Labour,7.2592536579832885
+Haringey,2021,1588000,Haringey,Outer London,11.42,268647,Labour,5.911102673768924
+Harrow,2021,969868,Harrow,Outer London,19.49,251160,Conservatives,3.8615543876413443
+Havering,2021,505524,Havering,Outer London,43.35,259552,Other,1.9476790777955861
+Hillingdon,2021,745700,Hillingdon,Outer London,44.67,306870,Conservatives,2.430019226382507
+Hounslow,2021,1423722,Hounslow,Outer London,21.61,271523,Labour,5.243467404234632
+Islington,2021,1069054,Islington,Inner London,5.74,242467,Labour,4.409070100261067
+Kensington and Chelsea,2021,352869,Kensington and Chelsea,Inner London,4.68,156129,Labour,2.260111830601618
+Kingston upon Thames,2021,1712000,Kingston upon Thames,Outer London,14.38,177507,LibDem,9.644690068560676
+Lambeth,2021,2179000,Lambeth,Inner London,10.36,326034,Labour,6.6833520430384565
+Lewisham,2021,1174431,Lewisham,Inner London,13.57,305842,Labour,3.8399925451703822
+Merton,2021,1691105,Merton,Outer London,14.52,206548,Labour,8.187467319945
+Newham,2021,3242048,Newham,Outer London,13.98,353134,Labour,9.180786896758738
+Redbridge,2021,1039448,Redbridge,Outer London,21.78,305222,Labour,3.405547437602794
+Richmond upon Thames,2021,1216671,Richmond upon Thames,Outer London,22.17,198019,LibDem,6.144213434064408
+Southwark,2021,1355000,Southwark,Inner London,11.14,318830,Labour,4.249913747137973
+Sutton,2021,437000,Sutton,Outer London,16.93,206349,LibDem,2.1177713485405794
+Tower Hamlets,2021,2164883,Tower Hamlets,Inner London,7.63,324745,Labour,6.666409028622458
+Waltham Forest,2021,2767999,Waltham Forest,Outer London,14.99,276983,Labour,9.993389485997335
+Wandsworth,2021,1732723,Wandsworth,Inner London,13.23,329677,Labour,5.255820090573501
+Barking and Dagenham,2022,2314900,Barking and Dagenham,Outer London,13.93,212906,Labour,10.872873474678967
+Barnet,2022,1477509,Barnet,Outer London,33.49,395896,Labour,3.7320634712146625
+Bexley,2022,1058274,Bexley,Outer London,23.38,248287,Conservatives,4.2623012884283105
+Brent,2022,1398500,Brent,Outer London,16.7,329771,Labour,4.240821661092091
+Bromley,2022,1484000,Bromley,Outer London,57.97,332336,Conservatives,4.46536035819171
+Camden,2022,3814351,Camden,Inner London,8.4,270029,Labour,14.125708720174499
+Westminster,2022,1737000,Westminster,Inner London,8.29,261317,Labour,6.647099117164211
+Croydon,2022,3284213,Croydon,Outer London,33.41,386710,Conservatives,8.492702541956504
+Ealing,2022,2205000,Ealing,Outer London,21.44,341806,Labour,6.451027775989889
+Enfield,2022,4534722,Enfield,Outer London,31.74,333794,Labour,13.5853909896523
+Greenwich,2022,1590000,Greenwich,Outer London,18.28,287942,Labour,5.521945391780289
+Hackney,2022,1660242,Hackney,Inner London,7.36,281120,Labour,5.905812464428002
+Hammersmith and Fulham,2022,1360000,Hammersmith and Fulham,Inner London,6.33,185143,Labour,7.345673344387851
+Haringey,2022,1254378,Haringey,Outer London,11.42,268647,Labour,4.66924253760511
+Harrow,2022,807414,Harrow,Outer London,19.49,251160,Conservatives,3.214739608217869
+Havering,2022,1158438,Havering,Outer London,43.35,259552,Other,4.46322124275675
+Hillingdon,2022,1586349,Hillingdon,Outer London,44.67,306870,Conservatives,5.169449604066869
+Hounslow,2022,1253000,Hounslow,Outer London,21.61,271523,Labour,4.614710356028771
+Islington,2022,997446,Islington,Inner London,5.74,242467,Labour,4.113739189250496
+Kensington and Chelsea,2022,691700,Kensington and Chelsea,Inner London,4.68,156129,Labour,4.43031083270885
+Kingston upon Thames,2022,965000,Kingston upon Thames,Outer London,14.38,177507,LibDem,5.436405324860428
+Lambeth,2022,1951100,Lambeth,Inner London,10.36,326034,Labour,5.98434519099235
+Lewisham,2022,1559634,Lewisham,Inner London,13.57,305842,Labour,5.099476200129478
+Merton,2022,934847,Merton,Outer London,14.52,206548,Labour,4.526052055696496
+Newham,2022,2559645,Newham,Outer London,13.98,353134,Labour,7.248367475236029
+Redbridge,2022,1425000,Redbridge,Outer London,21.78,305222,Labour,4.668732922266416
+Richmond upon Thames,2022,1336547,Richmond upon Thames,Outer London,22.17,198019,LibDem,6.749589685838227
+Southwark,2022,3080600,Southwark,Inner London,11.14,318830,Labour,9.662202427626008
+Sutton,2022,1136000,Sutton,Outer London,16.93,206349,LibDem,5.505236274467044
+Tower Hamlets,2022,264000,Tower Hamlets,Inner London,7.63,324745,Labour,0.8129455418867111
+Waltham Forest,2022,2739585,Waltham Forest,Outer London,14.99,276983,Labour,9.890805572905196
+Wandsworth,2022,1713000,Wandsworth,Inner London,13.23,329677,Labour,5.195994867703844
+Barking and Dagenham,2023,5311383,Barking and Dagenham,Outer London,13.93,212906,Labour,24.947079931988764
+Barnet,2023,2475289,Barnet,Outer London,33.49,395896,Labour,6.252371835027381
+Bexley,2023,1985170,Bexley,Outer London,23.38,248287,Conservatives,7.995464925670696
+Brent,2023,2537000,Brent,Outer London,16.7,329771,Labour,7.693217414508856
+Bromley,2023,1679000,Bromley,Outer London,57.97,332336,Conservatives,5.052115930865148
+Camden,2023,4956000,Camden,Inner London,8.4,270029,Labour,18.353584244655202
+Westminster,2023,2366000,Westminster,Inner London,8.29,261317,Labour,9.054137312153438
+Croydon,2023,3183287,Croydon,Outer London,33.41,386710,Conservatives,8.231716273176282
+Ealing,2023,3625000,Ealing,Outer London,21.44,341806,Labour,10.605431151003787
+Enfield,2023,3959000,Enfield,Outer London,31.74,333794,Labour,11.860608638861095
+Greenwich,2023,2062607,Greenwich,Outer London,18.28,287942,Labour,7.163272464593564
+Hackney,2023,3516987,Hackney,Inner London,7.36,281120,Labour,12.510625355719977
+Hammersmith and Fulham,2023,1368000,Hammersmith and Fulham,Inner London,6.33,185143,Labour,7.388883187590133
+Haringey,2023,1908479,Haringey,Outer London,11.42,268647,Labour,7.10403987388655
+Harrow,2023,1997995,Harrow,Outer London,19.49,251160,Conservatives,7.955068482242395
+Havering,2023,1348754,Havering,Outer London,43.35,259552,Other,5.196469300949328
+Hillingdon,2023,1508716,Hillingdon,Outer London,44.67,306870,Conservatives,4.916466256069345
+Hounslow,2023,2084000,Hounslow,Outer London,21.61,271523,Labour,7.6752245666113
+Islington,2023,2711741,Islington,Inner London,5.74,242467,Labour,11.18395905422181
+Kensington and Chelsea,2023,1046000,Kensington and Chelsea,Inner London,4.68,156129,Labour,6.699588161071934
+Kingston upon Thames,2023,1295925,Kingston upon Thames,Outer London,14.38,177507,LibDem,7.300698000642228
+Lambeth,2023,2775000,Lambeth,Inner London,10.36,326034,Labour,8.511382248477153
+Lewisham,2023,1969953,Lewisham,Inner London,13.57,305842,Labour,6.441080688721628
+Merton,2023,1617137,Merton,Outer London,14.52,206548,Labour,7.829352015027983
+Newham,2023,3492826,Newham,Outer London,13.98,353134,Labour,9.890936584979073
+Redbridge,2023,1994000,Redbridge,Outer London,21.78,305222,Labour,6.532949787367883
+Richmond upon Thames,2023,2888354,Richmond upon Thames,Outer London,22.17,198019,LibDem,14.586246774299436
+Southwark,2023,3083000,Southwark,Inner London,11.14,318830,Labour,9.669729950130163
+Sutton,2023,1608722,Sutton,Outer London,16.93,206349,LibDem,7.796122103814412
+Tower Hamlets,2023,180000,Tower Hamlets,Inner London,7.63,324745,Labour,0.5542810512863939
+Waltham Forest,2023,3414865,Waltham Forest,Outer London,14.99,276983,Labour,12.328789131462942
+Wandsworth,2023,2043000,Wandsworth,Inner London,13.23,329677,Labour,6.196974614546965
+Barking and Dagenham,2024,4494000,Barking and Dagenham,Outer London,13.93,212906,Labour,21.107906775760195
+Barnet,2024,2332000,Barnet,Outer London,33.49,395896,Labour,5.890435872047204
+Bexley,2024,1668100,Bexley,Outer London,23.38,248287,Conservatives,6.718434714664884
+Brent,2024,1348000,Brent,Outer London,16.7,329771,Labour,4.087685090562845
+Bromley,2024,1516000,Bromley,Outer London,57.97,332336,Conservatives,4.561648452168889
+Camden,2024,3884000,Camden,Inner London,8.4,270029,Labour,14.383640275674095
+Westminster,2024,1329000,Westminster,Inner London,8.29,261317,Labour,5.085777044738766
+Croydon,2024,2773000,Croydon,Outer London,33.41,386710,Conservatives,7.170748105815727
+Ealing,2024,3197000,Ealing,Outer London,21.44,341806,Labour,9.353258866140441
+Enfield,2024,4509000,Enfield,Outer London,31.74,333794,Labour,13.508331485886504
+Greenwich,2024,2077400,Greenwich,Outer London,18.28,287942,Labour,7.214647394266901
+Hackney,2024,2896000,Hackney,Inner London,7.36,281120,Labour,10.301650540694366
+Hammersmith and Fulham,2024,1258000,Hammersmith and Fulham,Inner London,6.33,185143,Labour,6.7947478435587625
+Haringey,2024,1852000,Haringey,Outer London,11.42,268647,Labour,6.893804881498769
+Harrow,2024,1860000,Harrow,Outer London,19.49,251160,Conservatives,7.405637840420449
+Havering,2024,1711500,Havering,Outer London,43.35,259552,Other,6.594054370607816
+Hillingdon,2024,1781000,Hillingdon,Outer London,44.67,306870,Conservatives,5.803760550070062
+Hounslow,2024,1639000,Hounslow,Outer London,21.61,271523,Labour,6.036321048308983
+Islington,2024,1463000,Islington,Inner London,5.74,242467,Labour,6.033810786622509
+Kensington and Chelsea,2024,1238000,Kensington and Chelsea,Inner London,4.68,156129,Labour,7.929340481268694
+Kingston upon Thames,2024,1604000,Kingston upon Thames,Outer London,14.38,177507,LibDem,9.03626335862811
+Lambeth,2024,1465000,Lambeth,Inner London,10.36,326034,Labour,4.493396394241091
+Lewisham,2024,3582400,Lewisham,Inner London,13.57,305842,Labour,11.713237554031167
+Merton,2024,1058000,Merton,Outer London,14.52,206548,Labour,5.122296028041908
+Newham,2024,3979000,Newham,Outer London,13.98,353134,Labour,11.267677425566498
+Redbridge,2024,2230000,Redbridge,Outer London,21.78,305222,Labour,7.306157485371304
+Richmond upon Thames,2024,2047000,Richmond upon Thames,Outer London,22.17,198019,LibDem,10.33739186643706
+Southwark,2024,2388000,Southwark,Inner London,11.14,318830,Labour,7.4898848916350405
+Sutton,2024,1399000,Sutton,Outer London,16.93,206349,LibDem,6.779776010545241
+Tower Hamlets,2024,542000,Tower Hamlets,Inner London,7.63,324745,Labour,1.6690018322068083
+Waltham Forest,2024,2467000,Waltham Forest,Outer London,14.99,276983,Labour,8.906683803699144
+Wandsworth,2024,1400000,Wandsworth,Inner London,13.23,329677,Labour,4.246580744182943
+,,,City of London,Inner London,1.12,9721,Labour,

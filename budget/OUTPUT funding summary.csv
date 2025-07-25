@@ -1,0 +1,225 @@
+borough,borough_category,is_per_capita,variable,value
+Barking and Dagenham,Outer London,1,Business Rates,357.7706715395158
+Barking and Dagenham,Outer London,1,Council Tax Requirement,384.1754225673824
+Barking and Dagenham,Outer London,1,Grants,1722.8917313841937
+Barking and Dagenham,Outer London,1,Other,0.1873001370488807
+Barking and Dagenham,Outer London,1,Reserves Change,40.24211968935587
+Barking and Dagenham,Outer London,1,Revenue Expenditure,2606.948378254911
+Barking and Dagenham,Outer London,1,Revenue Support Grant,101.68113293741436
+Barnet,Outer London,1,Business Rates,198.7978422810172
+Barnet,Outer London,1,Council Tax Requirement,589.1446185461084
+Barnet,Outer London,1,Grants,881.9111225276137
+Barnet,Outer London,1,Other,-0.0
+Barnet,Outer London,1,Reserves Change,51.659388646288214
+Barnet,Outer London,1,Revenue Expenditure,1743.7503210891343
+Barnet,Outer London,1,Revenue Support Grant,22.237349088106857
+Bexley,Outer London,1,Business Rates,214.92494929006085
+Bexley,Outer London,1,Council Tax Requirement,573.6795131845842
+Bexley,Outer London,1,Grants,655.6511156186613
+Bexley,Outer London,1,Other,-0.0
+Bexley,Outer London,1,Reserves Change,-46.97768762677485
+Bexley,Outer London,1,Revenue Expenditure,1414.738336713996
+Bexley,Outer London,1,Revenue Support Grant,17.460446247464503
+Brent,Outer London,1,Business Rates,335.9741024131842
+Brent,Outer London,1,Council Tax Requirement,476.93643319599767
+Brent,Outer London,1,Grants,1053.6845203060625
+Brent,Outer London,1,Other,-0.0
+Brent,Outer London,1,Reserves Change,9.178928781636255
+Brent,Outer London,1,Revenue Expenditure,1966.67745732784
+Brent,Outer London,1,Revenue Support Grant,90.9034726309594
+Bromley,Outer London,1,Business Rates,152.13636363636363
+Bromley,Outer London,1,Council Tax Requirement,606.1090909090909
+Bromley,Outer London,1,Grants,551.8818181818182
+Bromley,Outer London,1,Other,48.18181818181818
+Bromley,Outer London,1,Reserves Change,11.833333333333334
+Bromley,Outer London,1,Revenue Expenditure,1370.1424242424243
+Bromley,Outer London,1,Revenue Support Grant,-0.0
+Camden,Inner London,1,Business Rates,581.5088053307949
+Camden,Inner London,1,Council Tax Requirement,671.7372679676345
+Camden,Inner London,1,Grants,1519.4811994288434
+Camden,Inner London,1,Other,-91.02332222751072
+Camden,Inner London,1,Reserves Change,47.291765825797235
+Camden,Inner London,1,Revenue Expenditure,2863.341266063779
+Camden,Inner London,1,Revenue Support Grant,134.3455497382199
+Croydon,Outer London,1,Business Rates,250.64738996929376
+Croydon,Outer London,1,Council Tax Requirement,664.6903787103378
+Croydon,Outer London,1,Grants,827.5307062436028
+Croydon,Outer London,1,Other,4.600818833162743
+Croydon,Outer London,1,Reserves Change,-3.4646878198567044
+Croydon,Outer London,1,Revenue Expenditure,1789.598259979529
+Croydon,Outer London,1,Revenue Support Grant,45.59365404298874
+Ealing,Outer London,1,Business Rates,290.5938436393353
+Ealing,Outer London,1,Council Tax Requirement,495.2982838463634
+Ealing,Outer London,1,Grants,1269.4906020157996
+Ealing,Outer London,1,Other,4.306728411876873
+Ealing,Outer London,1,Reserves Change,13.576682102969217
+Ealing,Outer London,1,Revenue Expenditure,2132.6450558430947
+Ealing,Outer London,1,Revenue Support Grant,59.3789158267502
+Enfield,Outer London,1,Business Rates,298.58484848484846
+Enfield,Outer London,1,Council Tax Requirement,497.3272727272727
+Enfield,Outer London,1,Grants,1188.8969696969698
+Enfield,Outer London,1,Other,3.06969696969697
+Enfield,Outer London,1,Reserves Change,2.0545454545454547
+Enfield,Outer London,1,Revenue Expenditure,2057.0030303030303
+Enfield,Outer London,1,Revenue Support Grant,67.06969696969696
+Greenwich,Outer London,1,Business Rates,387.7101349014182
+Greenwich,Outer London,1,Council Tax Requirement,434.2960913178831
+Greenwich,Outer London,1,Grants,1288.1528882739535
+Greenwich,Outer London,1,Other,17.409200968523002
+Greenwich,Outer London,1,Reserves Change,25.503286060186788
+Greenwich,Outer London,1,Revenue Expenditure,2262.2552749913525
+Greenwich,Outer London,1,Revenue Support Grant,109.18367346938776
+Hackney,Inner London,1,Business Rates,632.9822530864197
+Hackney,Inner London,1,Council Tax Requirement,421.8287037037037
+Hackney,Inner London,1,Grants,1512.7199074074074
+Hackney,Inner London,1,Other,6.442901234567901
+Hackney,Inner London,1,Reserves Change,120.5979938271605
+Hackney,Inner London,1,Revenue Expenditure,2863.15200617284
+Hackney,Inner London,1,Revenue Support Grant,168.58024691358025
+Hammersmith and Fulham,Inner London,1,Business Rates,341.20633187772927
+Hammersmith and Fulham,Inner London,1,Council Tax Requirement,430.2674672489083
+Hammersmith and Fulham,Inner London,1,Grants,916.7412663755458
+Hammersmith and Fulham,Inner London,1,Other,1.8013100436681222
+Hammersmith and Fulham,Inner London,1,Reserves Change,-0.0
+Hammersmith and Fulham,Inner London,1,Revenue Expenditure,1807.57096069869
+Hammersmith and Fulham,Inner London,1,Revenue Support Grant,117.55458515283844
+Haringey,Inner London,1,Business Rates,333.99318697956096
+Haringey,Inner London,1,Council Tax Requirement,506.9682059046177
+Haringey,Inner London,1,Grants,1581.563209689629
+Haringey,Inner London,1,Other,-0.0
+Haringey,Inner London,1,Reserves Change,-20.783497350492052
+Haringey,Inner London,1,Revenue Expenditure,2505.196820590462
+Haringey,Inner London,1,Revenue Support Grant,103.4557153671461
+Harrow,Outer London,1,Business Rates,191.46957520091848
+Harrow,Outer London,1,Council Tax Requirement,620.7730577879831
+Harrow,Outer London,1,Grants,821.0792192881745
+Harrow,Outer London,1,Other,7.527745885954841
+Harrow,Outer London,1,Reserves Change,1.0486031381553769
+Harrow,Outer London,1,Revenue Expenditure,1650.390355912744
+Harrow,Outer London,1,Revenue Support Grant,8.492154611557597
+Havering,Outer London,1,Business Rates,152.9351145038168
+Havering,Outer London,1,Council Tax Requirement,603.1412213740458
+Havering,Outer London,1,Grants,942.9274809160304
+Havering,Outer London,1,Other,16.549618320610687
+Havering,Outer London,1,Reserves Change,-38.80916030534351
+Havering,Outer London,1,Revenue Expenditure,1684.473282442748
+Havering,Outer London,1,Revenue Support Grant,7.729007633587786
+Hillingdon,Outer London,1,Business Rates,244.96567505720824
+Hillingdon,Outer London,1,Council Tax Requirement,476.4661654135338
+Hillingdon,Outer London,1,Grants,1023.0042497548218
+Hillingdon,Outer London,1,Other,-4.766263484798954
+Hillingdon,Outer London,1,Reserves Change,-4.344557044785878
+Hillingdon,Outer London,1,Revenue Expenditure,1763.635174893756
+Hillingdon,Outer London,1,Revenue Support Grant,28.30990519777705
+Hounslow,Outer London,1,Business Rates,186.40874392782789
+Hounslow,Outer London,1,Council Tax Requirement,478.2442748091603
+Hounslow,Outer London,1,Grants,1084.087439278279
+Hounslow,Outer London,1,Other,0.7009021512838307
+Hounslow,Outer London,1,Reserves Change,74.44482997918112
+Hounslow,Outer London,1,Revenue Expenditure,1866.1380985426788
+Hounslow,Outer London,1,Revenue Support Grant,42.25190839694657
+Islington,Inner London,1,Business Rates,592.6823638042474
+Islington,Inner London,1,Council Tax Requirement,545.6971375807941
+Islington,Inner London,1,Grants,1324.875346260388
+Islington,Inner London,1,Other,-7.779316712834719
+Islington,Inner London,1,Reserves Change,-35.32779316712835
+Islington,Inner London,1,Revenue Expenditure,2560.5540166204987
+Islington,Inner London,1,Revenue Support Grant,140.40627885503233
+Kensington and Chelsea,Inner London,1,Business Rates,343.4797768479777
+Kensington and Chelsea,Inner London,1,Council Tax Requirement,729.8256624825663
+Kensington and Chelsea,Inner London,1,Grants,1058.465829846583
+Kensington and Chelsea,Inner London,1,Other,-0.0
+Kensington and Chelsea,Inner London,1,Reserves Change,202.85216178521617
+Kensington and Chelsea,Inner London,1,Revenue Expenditure,2423.2496513249653
+Kensington and Chelsea,Inner London,1,Revenue Support Grant,88.62622036262204
+Kingston upon Thames,Outer London,1,Business Rates,161.76785714285714
+Kingston upon Thames,Outer London,1,Council Tax Requirement,742.3214285714286
+Kingston upon Thames,Outer London,1,Grants,802.1071428571429
+Kingston upon Thames,Outer London,1,Other,18.45833333333333
+Kingston upon Thames,Outer London,1,Reserves Change,2.9761904761904763
+Kingston upon Thames,Outer London,1,Revenue Expenditure,1728.803571428571
+Kingston upon Thames,Outer London,1,Revenue Support Grant,1.1726190476190477
+Lambeth,Inner London,1,Business Rates,412.5913098236776
+Lambeth,Inner London,1,Council Tax Requirement,502.4905541561713
+Lambeth,Inner London,1,Grants,1264.7260705289673
+Lambeth,Inner London,1,Other,-0.0
+Lambeth,Inner London,1,Reserves Change,-0.0
+Lambeth,Inner London,1,Revenue Expenditure,2304.8992443324937
+Lambeth,Inner London,1,Revenue Support Grant,125.09130982367758
+Lewisham,Inner London,1,Business Rates,391.4171656686627
+Lewisham,Inner London,1,Council Tax Requirement,471.1942781104458
+Lewisham,Inner London,1,Grants,1370.2761144377912
+Lewisham,Inner London,1,Other,-83.7125748502994
+Lewisham,Inner London,1,Reserves Change,61.12109115103127
+Lewisham,Inner London,1,Revenue Expenditure,2325.189620758483
+Lewisham,Inner London,1,Revenue Support Grant,114.89354624085163
+Merton,Outer London,1,Business Rates,211.2778810408922
+Merton,Outer London,1,Council Tax Requirement,555.618029739777
+Merton,Outer London,1,Grants,1156.1198884758364
+Merton,Outer London,1,Other,9.535315985130111
+Merton,Outer London,1,Reserves Change,7.45817843866171
+Merton,Outer London,1,Revenue Expenditure,1970.2741635687728
+Merton,Outer London,1,Revenue Support Grant,30.26486988847584
+Newham,Inner London,1,Business Rates,493.4776416975221
+Newham,Inner London,1,Council Tax Requirement,314.155511250356
+Newham,Inner London,1,Grants,1147.2543434918828
+Newham,Inner London,1,Other,-0.0
+Newham,Inner London,1,Reserves Change,6.661919681002562
+Newham,Inner London,1,Revenue Expenditure,2090.931358587297
+Newham,Inner London,1,Revenue Support Grant,129.38194246653376
+Redbridge,Outer London,1,Business Rates,226.3486948114728
+Redbridge,Outer London,1,Council Tax Requirement,476.0683209796971
+Redbridge,Outer London,1,Grants,1259.026748308089
+Redbridge,Outer London,1,Other,1.4824363519174992
+Redbridge,Outer London,1,Reserves Change,0.2707057686110216
+Redbridge,Outer London,1,Revenue Expenditure,2005.098291975508
+Redbridge,Outer London,1,Revenue Support Grant,41.90138575572027
+Richmond upon Thames,Outer London,1,Business Rates,137.80737704918033
+Richmond upon Thames,Outer London,1,Council Tax Requirement,823.4016393442623
+Richmond upon Thames,Outer London,1,Grants,923.3657786885246
+Richmond upon Thames,Outer London,1,Other,5.635245901639344
+Richmond upon Thames,Outer London,1,Reserves Change,51.55737704918032
+Richmond upon Thames,Outer London,1,Revenue Expenditure,1942.832991803279
+Richmond upon Thames,Outer London,1,Revenue Support Grant,1.0655737704918034
+Southwark,Inner London,1,Business Rates,549.684757881053
+Southwark,Inner London,1,Council Tax Requirement,499.161520961976
+Southwark,Inner London,1,Grants,886.7273318167046
+Southwark,Inner London,1,Other,-0.0032499187520311
+Southwark,Inner London,1,Reserves Change,-9.496262593435164
+Southwark,Inner London,1,Revenue Expenditure,2072.219694507637
+Southwark,Inner London,1,Revenue Support Grant,146.145596360091
+Sutton,Outer London,1,Business Rates,234.3988549618321
+Sutton,Outer London,1,Council Tax Requirement,603.587786259542
+Sutton,Outer London,1,Grants,863.2538167938932
+Sutton,Outer London,1,Other,7.690839694656488
+Sutton,Outer London,1,Reserves Change,-9.289122137404581
+Sutton,Outer London,1,Revenue Expenditure,1739.7996183206108
+Sutton,Outer London,1,Revenue Support Grant,40.1574427480916
+Tower Hamlets,Inner London,1,Business Rates,556.6999677731228
+Tower Hamlets,Inner London,1,Council Tax Requirement,445.2723171124718
+Tower Hamlets,Inner London,1,Grants,1868.5916854656784
+Tower Hamlets,Inner London,1,Other,-0.0
+Tower Hamlets,Inner London,1,Reserves Change,20.64776023203352
+Tower Hamlets,Inner London,1,Revenue Expenditure,3026.4163712536256
+Tower Hamlets,Inner London,1,Revenue Support Grant,135.20464067031904
+Waltham Forest,Outer London,1,Business Rates,323.50933908045977
+Waltham Forest,Outer London,1,Council Tax Requirement,497.2557471264368
+Waltham Forest,Outer London,1,Grants,1150.7722701149426
+Waltham Forest,Outer London,1,Other,3.6781609195402307
+Waltham Forest,Outer London,1,Reserves Change,24.80603448275862
+Waltham Forest,Outer London,1,Revenue Expenditure,2083.405172413793
+Waltham Forest,Outer London,1,Revenue Support Grant,83.38362068965517
+Wandsworth,Inner London,1,Business Rates,297.4534351145038
+Wandsworth,Inner London,1,Council Tax Requirement,217.95114503816797
+Wandsworth,Inner London,1,Grants,885.2488549618321
+Wandsworth,Inner London,1,Other,6.204580152671756
+Wandsworth,Inner London,1,Reserves Change,38.85496183206107
+Wandsworth,Inner London,1,Revenue Expenditure,1533.9083969465648
+Wandsworth,Inner London,1,Revenue Support Grant,88.19541984732824
+Westminster,Inner London,1,Business Rates,695.0367107195301
+Westminster,Inner London,1,Council Tax Requirement,338.45325501713165
+Westminster,Inner London,1,Grants,1115.1101321585902
+Westminster,Inner London,1,Other,-7.694566813509545
+Westminster,Inner London,1,Reserves Change,-105.67302985805188
+Westminster,Inner London,1,Revenue Expenditure,2217.2344591287324
+Westminster,Inner London,1,Revenue Support Grant,182.0019579050416

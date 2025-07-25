@@ -1,0 +1,1473 @@
+borough,variable,value,borough_category,is_per_capita
+Barking and Dagenham,Dedicated Schools Grant (DSG),285258.0,Outer London,0
+Barnet,Dedicated Schools Grant (DSG),265807.0,Outer London,0
+Bexley,Dedicated Schools Grant (DSG),105311.0,Outer London,0
+Brent,Dedicated Schools Grant (DSG),236472.0,Outer London,0
+Bromley,Dedicated Schools Grant (DSG),116453.0,Outer London,0
+Camden,Dedicated Schools Grant (DSG),212033.0,Inner London,0
+Croydon,Dedicated Schools Grant (DSG),214047.0,Outer London,0
+Ealing,Dedicated Schools Grant (DSG),336017.0,Outer London,0
+Enfield,Dedicated Schools Grant (DSG),259510.0,Outer London,0
+Greenwich,Dedicated Schools Grant (DSG),255138.0,Outer London,0
+Hackney,Dedicated Schools Grant (DSG),255220.0,Inner London,0
+Hammersmith and Fulham,Dedicated Schools Grant (DSG),90401.0,Inner London,0
+Haringey,Dedicated Schools Grant (DSG),313301.0,Inner London,0
+Harrow,Dedicated Schools Grant (DSG),165330.0,Outer London,0
+Havering,Dedicated Schools Grant (DSG),169064.0,Outer London,0
+Hillingdon,Dedicated Schools Grant (DSG),212730.0,Outer London,0
+Hounslow,Dedicated Schools Grant (DSG),213791.0,Outer London,0
+Islington,Dedicated Schools Grant (DSG),167783.0,Inner London,0
+Kensington and Chelsea,Dedicated Schools Grant (DSG),79422.0,Inner London,0
+Kingston upon Thames,Dedicated Schools Grant (DSG),97668.0,Outer London,0
+Lambeth,Dedicated Schools Grant (DSG),255956.0,Inner London,0
+Lewisham,Dedicated Schools Grant (DSG),277791.0,Inner London,0
+Merton,Dedicated Schools Grant (DSG),193129.0,Outer London,0
+Newham,Dedicated Schools Grant (DSG),267080.0,Inner London,0
+Redbridge,Dedicated Schools Grant (DSG),302555.0,Outer London,0
+Richmond upon Thames,Dedicated Schools Grant (DSG),132385.0,Outer London,0
+Southwark,Dedicated Schools Grant (DSG),0.0,Inner London,0
+Sutton,Dedicated Schools Grant (DSG),137110.0,Outer London,0
+Tower Hamlets,Dedicated Schools Grant (DSG),433273.0,Inner London,0
+Waltham Forest,Dedicated Schools Grant (DSG),210226.0,Outer London,0
+Wandsworth,Dedicated Schools Grant (DSG),170307.0,Inner London,0
+Westminster,Dedicated Schools Grant (DSG),95065.0,Inner London,0
+Barking and Dagenham,Pupil Premium Grant,15712.0,Outer London,0
+Barnet,Pupil Premium Grant,0.0,Outer London,0
+Bexley,Pupil Premium Grant,1375.0,Outer London,0
+Brent,Pupil Premium Grant,6522.0,Outer London,0
+Bromley,Pupil Premium Grant,1300.0,Outer London,0
+Camden,Pupil Premium Grant,424.0,Inner London,0
+Croydon,Pupil Premium Grant,1166.0,Outer London,0
+Ealing,Pupil Premium Grant,13474.0,Outer London,0
+Enfield,Pupil Premium Grant,10245.0,Outer London,0
+Greenwich,Pupil Premium Grant,9867.0,Outer London,0
+Hackney,Pupil Premium Grant,11461.0,Inner London,0
+Hammersmith and Fulham,Pupil Premium Grant,3360.0,Inner London,0
+Haringey,Pupil Premium Grant,0.0,Inner London,0
+Harrow,Pupil Premium Grant,0.0,Outer London,0
+Havering,Pupil Premium Grant,5331.0,Outer London,0
+Hillingdon,Pupil Premium Grant,8503.0,Outer London,0
+Hounslow,Pupil Premium Grant,11957.0,Outer London,0
+Islington,Pupil Premium Grant,11461.0,Inner London,0
+Kensington and Chelsea,Pupil Premium Grant,3455.0,Inner London,0
+Kingston upon Thames,Pupil Premium Grant,2463.0,Outer London,0
+Lambeth,Pupil Premium Grant,711.0,Inner London,0
+Lewisham,Pupil Premium Grant,10666.0,Inner London,0
+Merton,Pupil Premium Grant,5973.0,Outer London,0
+Newham,Pupil Premium Grant,10195.0,Inner London,0
+Redbridge,Pupil Premium Grant,7870.0,Outer London,0
+Richmond upon Thames,Pupil Premium Grant,3078.0,Outer London,0
+Southwark,Pupil Premium Grant,0.0,Inner London,0
+Sutton,Pupil Premium Grant,3066.0,Outer London,0
+Tower Hamlets,Pupil Premium Grant,17120.0,Inner London,0
+Waltham Forest,Pupil Premium Grant,7027.0,Outer London,0
+Wandsworth,Pupil Premium Grant,6016.0,Inner London,0
+Westminster,Pupil Premium Grant,5193.0,Inner London,0
+Barking and Dagenham,Universal Infants Free School Meals,2070.0,Outer London,0
+Barnet,Universal Infants Free School Meals,0.0,Outer London,0
+Bexley,Universal Infants Free School Meals,765.0,Outer London,0
+Brent,Universal Infants Free School Meals,3078.0,Outer London,0
+Bromley,Universal Infants Free School Meals,234.0,Outer London,0
+Camden,Universal Infants Free School Meals,0.0,Inner London,0
+Croydon,Universal Infants Free School Meals,0.0,Outer London,0
+Ealing,Universal Infants Free School Meals,3402.0,Outer London,0
+Enfield,Universal Infants Free School Meals,2283.0,Outer London,0
+Greenwich,Universal Infants Free School Meals,0.0,Outer London,0
+Hackney,Universal Infants Free School Meals,1752.0,Inner London,0
+Hammersmith and Fulham,Universal Infants Free School Meals,825.0,Inner London,0
+Haringey,Universal Infants Free School Meals,0.0,Inner London,0
+Harrow,Universal Infants Free School Meals,0.0,Outer London,0
+Havering,Universal Infants Free School Meals,2866.0,Outer London,0
+Hillingdon,Universal Infants Free School Meals,0.0,Outer London,0
+Hounslow,Universal Infants Free School Meals,0.0,Outer London,0
+Islington,Universal Infants Free School Meals,700.0,Inner London,0
+Kensington and Chelsea,Universal Infants Free School Meals,797.0,Inner London,0
+Kingston upon Thames,Universal Infants Free School Meals,0.0,Outer London,0
+Lambeth,Universal Infants Free School Meals,0.0,Inner London,0
+Lewisham,Universal Infants Free School Meals,4636.0,Inner London,0
+Merton,Universal Infants Free School Meals,0.0,Outer London,0
+Newham,Universal Infants Free School Meals,2067.0,Inner London,0
+Redbridge,Universal Infants Free School Meals,3600.0,Outer London,0
+Richmond upon Thames,Universal Infants Free School Meals,2276.0,Outer London,0
+Southwark,Universal Infants Free School Meals,0.0,Inner London,0
+Sutton,Universal Infants Free School Meals,1052.0,Outer London,0
+Tower Hamlets,Universal Infants Free School Meals,2290.0,Inner London,0
+Waltham Forest,Universal Infants Free School Meals,1105.0,Outer London,0
+Wandsworth,Universal Infants Free School Meals,0.0,Inner London,0
+Westminster,Universal Infants Free School Meals,1131.0,Inner London,0
+Barking and Dagenham,Public Health Grant ,18759.0,Outer London,0
+Barnet,Public Health Grant ,19228.0,Outer London,0
+Bexley,Public Health Grant ,10890.0,Outer London,0
+Brent,Public Health Grant ,24240.0,Outer London,0
+Bromley,Public Health Grant ,16397.0,Outer London,0
+Camden,Public Health Grant ,29701.0,Inner London,0
+Croydon,Public Health Grant ,24134.0,Outer London,0
+Ealing,Public Health Grant ,27417.0,Outer London,0
+Enfield,Public Health Grant ,19029.0,Outer London,0
+Greenwich,Public Health Grant ,25916.0,Outer London,0
+Hackney,Public Health Grant ,37845.0,Inner London,0
+Hammersmith and Fulham,Public Health Grant ,24333.0,Inner London,0
+Haringey,Public Health Grant ,22727.0,Inner London,0
+Harrow,Public Health Grant ,12288.0,Outer London,0
+Havering,Public Health Grant ,12287.0,Outer London,0
+Hillingdon,Public Health Grant ,19396.0,Outer London,0
+Hounslow,Public Health Grant ,17329.0,Outer London,0
+Islington,Public Health Grant ,29435.0,Inner London,0
+Kensington and Chelsea,Public Health Grant ,23343.0,Inner London,0
+Kingston upon Thames,Public Health Grant ,11400.0,Outer London,0
+Lambeth,Public Health Grant ,36000.0,Inner London,0
+Lewisham,Public Health Grant ,27557.0,Inner London,0
+Merton,Public Health Grant ,11709.0,Outer London,0
+Newham,Public Health Grant ,34229.0,Inner London,0
+Redbridge,Public Health Grant ,15409.0,Outer London,0
+Richmond upon Thames,Public Health Grant ,10330.0,Outer London,0
+Southwark,Public Health Grant ,31126.0,Inner London,0
+Sutton,Public Health Grant ,11019.0,Outer London,0
+Tower Hamlets,Public Health Grant ,39224.0,Inner London,0
+Waltham Forest,Public Health Grant ,17855.0,Outer London,0
+Wandsworth,Public Health Grant ,31163.0,Inner London,0
+Westminster,Public Health Grant ,35125.0,Inner London,0
+Barking and Dagenham,Social Care Support Grant,21725.0,Outer London,0
+Barnet,Social Care Support Grant,27281.0,Outer London,0
+Bexley,Social Care Support Grant,17786.0,Outer London,0
+Brent,Social Care Support Grant,29207.0,Outer London,0
+Bromley,Social Care Support Grant,7661.0,Outer London,0
+Camden,Social Care Support Grant,28588.0,Inner London,0
+Croydon,Social Care Support Grant,25025.0,Outer London,0
+Ealing,Social Care Support Grant,29567.0,Outer London,0
+Enfield,Social Care Support Grant,27758.0,Outer London,0
+Greenwich,Social Care Support Grant,31592.0,Outer London,0
+Hackney,Social Care Support Grant,34857.0,Inner London,0
+Hammersmith and Fulham,Social Care Support Grant,22505.0,Inner London,0
+Haringey,Social Care Support Grant,25224.0,Inner London,0
+Harrow,Social Care Support Grant,16982.0,Outer London,0
+Havering,Social Care Support Grant,18772.0,Outer London,0
+Hillingdon,Social Care Support Grant,20578.0,Outer London,0
+Hounslow,Social Care Support Grant,20251.0,Outer London,0
+Islington,Social Care Support Grant,30065.0,Inner London,0
+Kensington and Chelsea,Social Care Support Grant,18339.0,Inner London,0
+Kingston upon Thames,Social Care Support Grant,9937.0,Outer London,0
+Lambeth,Social Care Support Grant,33912.0,Inner London,0
+Lewisham,Social Care Support Grant,30790.0,Inner London,0
+Merton,Social Care Support Grant,13747.0,Outer London,0
+Newham,Social Care Support Grant,36701.0,Inner London,0
+Redbridge,Social Care Support Grant,22814.0,Outer London,0
+Richmond upon Thames,Social Care Support Grant,11655.0,Outer London,0
+Southwark,Social Care Support Grant,36362.0,Inner London,0
+Sutton,Social Care Support Grant,12687.0,Outer London,0
+Tower Hamlets,Social Care Support Grant,34012.0,Inner London,0
+Waltham Forest,Social Care Support Grant,23491.0,Outer London,0
+Wandsworth,Social Care Support Grant,33611.0,Inner London,0
+Westminster,Social Care Support Grant,34761.0,Inner London,0
+Barking and Dagenham,Rural Services Delivery Grant,0.0,Outer London,0
+Barnet,Rural Services Delivery Grant,0.0,Outer London,0
+Bexley,Rural Services Delivery Grant,0.0,Outer London,0
+Brent,Rural Services Delivery Grant,0.0,Outer London,0
+Bromley,Rural Services Delivery Grant,0.0,Outer London,0
+Camden,Rural Services Delivery Grant,0.0,Inner London,0
+Croydon,Rural Services Delivery Grant,0.0,Outer London,0
+Ealing,Rural Services Delivery Grant,0.0,Outer London,0
+Enfield,Rural Services Delivery Grant,0.0,Outer London,0
+Greenwich,Rural Services Delivery Grant,0.0,Outer London,0
+Hackney,Rural Services Delivery Grant,0.0,Inner London,0
+Hammersmith and Fulham,Rural Services Delivery Grant,0.0,Inner London,0
+Haringey,Rural Services Delivery Grant,0.0,Inner London,0
+Harrow,Rural Services Delivery Grant,0.0,Outer London,0
+Havering,Rural Services Delivery Grant,0.0,Outer London,0
+Hillingdon,Rural Services Delivery Grant,0.0,Outer London,0
+Hounslow,Rural Services Delivery Grant,0.0,Outer London,0
+Islington,Rural Services Delivery Grant,0.0,Inner London,0
+Kensington and Chelsea,Rural Services Delivery Grant,0.0,Inner London,0
+Kingston upon Thames,Rural Services Delivery Grant,0.0,Outer London,0
+Lambeth,Rural Services Delivery Grant,0.0,Inner London,0
+Lewisham,Rural Services Delivery Grant,0.0,Inner London,0
+Merton,Rural Services Delivery Grant,0.0,Outer London,0
+Newham,Rural Services Delivery Grant,0.0,Inner London,0
+Redbridge,Rural Services Delivery Grant,0.0,Outer London,0
+Richmond upon Thames,Rural Services Delivery Grant,0.0,Outer London,0
+Southwark,Rural Services Delivery Grant,0.0,Inner London,0
+Sutton,Rural Services Delivery Grant,0.0,Outer London,0
+Tower Hamlets,Rural Services Delivery Grant,0.0,Inner London,0
+Waltham Forest,Rural Services Delivery Grant,0.0,Outer London,0
+Wandsworth,Rural Services Delivery Grant,0.0,Inner London,0
+Westminster,Rural Services Delivery Grant,0.0,Inner London,0
+Barking and Dagenham,Improved Better Care Fund,10707.0,Outer London,0
+Barnet,Improved Better Care Fund,9622.0,Outer London,0
+Bexley,Improved Better Care Fund,6616.0,Outer London,0
+Brent,Improved Better Care Fund,13345.0,Outer London,0
+Bromley,Improved Better Care Fund,7731.0,Outer London,0
+Camden,Improved Better Care Fund,12874.0,Inner London,0
+Croydon,Improved Better Care Fund,9978.0,Outer London,0
+Ealing,Improved Better Care Fund,12680.0,Outer London,0
+Enfield,Improved Better Care Fund,11726.0,Outer London,0
+Greenwich,Improved Better Care Fund,15434.0,Outer London,0
+Hackney,Improved Better Care Fund,16637.0,Inner London,0
+Hammersmith and Fulham,Improved Better Care Fund,10027.0,Inner London,0
+Haringey,Improved Better Care Fund,9806.0,Inner London,0
+Harrow,Improved Better Care Fund,6664.0,Outer London,0
+Havering,Improved Better Care Fund,6825.0,Outer London,0
+Hillingdon,Improved Better Care Fund,7468.0,Outer London,0
+Hounslow,Improved Better Care Fund,8174.0,Outer London,0
+Islington,Improved Better Care Fund,14501.0,Inner London,0
+Kensington and Chelsea,Improved Better Care Fund,7662.0,Inner London,0
+Kingston upon Thames,Improved Better Care Fund,1840.0,Outer London,0
+Lambeth,Improved Better Care Fund,14946.0,Inner London,0
+Lewisham,Improved Better Care Fund,14942.0,Inner London,0
+Merton,Improved Better Care Fund,5010.0,Outer London,0
+Newham,Improved Better Care Fund,17193.0,Inner London,0
+Redbridge,Improved Better Care Fund,10081.0,Outer London,0
+Richmond upon Thames,Improved Better Care Fund,776.0,Outer London,0
+Southwark,Improved Better Care Fund,17847.0,Inner London,0
+Sutton,Improved Better Care Fund,4067.0,Outer London,0
+Tower Hamlets,Improved Better Care Fund,16810.0,Inner London,0
+Waltham Forest,Improved Better Care Fund,9486.0,Outer London,0
+Wandsworth,Improved Better Care Fund,16985.0,Inner London,0
+Westminster,Improved Better Care Fund,17649.0,Inner London,0
+Barking and Dagenham,ASC Market Sustainability and Improvement Fund,3995.0,Outer London,0
+Barnet,ASC Market Sustainability and Improvement Fund,6333.0,Outer London,0
+Bexley,ASC Market Sustainability and Improvement Fund,4062.0,Outer London,0
+Brent,ASC Market Sustainability and Improvement Fund,5876.0,Outer London,0
+Bromley,ASC Market Sustainability and Improvement Fund,5208.0,Outer London,0
+Camden,ASC Market Sustainability and Improvement Fund,5625.0,Inner London,0
+Croydon,ASC Market Sustainability and Improvement Fund,6131.0,Outer London,0
+Ealing,ASC Market Sustainability and Improvement Fund,6202.0,Outer London,0
+Enfield,ASC Market Sustainability and Improvement Fund,5682.0,Outer London,0
+Greenwich,ASC Market Sustainability and Improvement Fund,5820.0,Outer London,0
+Hackney,ASC Market Sustainability and Improvement Fund,6147.0,Inner London,0
+Hammersmith and Fulham,ASC Market Sustainability and Improvement Fund,4018.0,Inner London,0
+Haringey,ASC Market Sustainability and Improvement Fund,5023.0,Inner London,0
+Harrow,ASC Market Sustainability and Improvement Fund,4243.0,Outer London,0
+Havering,ASC Market Sustainability and Improvement Fund,4400.0,Outer London,0
+Hillingdon,ASC Market Sustainability and Improvement Fund,4555.0,Outer London,0
+Hounslow,ASC Market Sustainability and Improvement Fund,4372.0,Outer London,0
+Islington,ASC Market Sustainability and Improvement Fund,5620.0,Inner London,0
+Kensington and Chelsea,ASC Market Sustainability and Improvement Fund,3792.0,Inner London,0
+Kingston upon Thames,ASC Market Sustainability and Improvement Fund,2508.0,Outer London,0
+Lambeth,ASC Market Sustainability and Improvement Fund,6602.0,Inner London,0
+Lewisham,ASC Market Sustainability and Improvement Fund,5984.0,Inner London,0
+Merton,ASC Market Sustainability and Improvement Fund,3272.0,Outer London,0
+Newham,ASC Market Sustainability and Improvement Fund,6424.0,Inner London,0
+Redbridge,ASC Market Sustainability and Improvement Fund,4882.0,Outer London,0
+Richmond upon Thames,ASC Market Sustainability and Improvement Fund,2891.0,Outer London,0
+Southwark,ASC Market Sustainability and Improvement Fund,6872.0,Inner London,0
+Sutton,ASC Market Sustainability and Improvement Fund,3226.0,Outer London,0
+Tower Hamlets,ASC Market Sustainability and Improvement Fund,6409.0,Inner London,0
+Waltham Forest,ASC Market Sustainability and Improvement Fund,4763.0,Outer London,0
+Wandsworth,ASC Market Sustainability and Improvement Fund,5676.0,Inner London,0
+Westminster,ASC Market Sustainability and Improvement Fund,5789.0,Inner London,0
+Barking and Dagenham,Services Grant,403.0,Outer London,0
+Barnet,Services Grant,410.0,Outer London,0
+Bexley,Services Grant,256.0,Outer London,0
+Brent,Services Grant,617.0,Outer London,0
+Bromley,Services Grant,269.0,Outer London,0
+Camden,Services Grant,639.0,Inner London,0
+Croydon,Services Grant,517.0,Outer London,0
+Ealing,Services Grant,538.0,Outer London,0
+Enfield,Services Grant,518.0,Outer London,0
+Greenwich,Services Grant,583.0,Outer London,0
+Hackney,Services Grant,707.0,Inner London,0
+Hammersmith and Fulham,Services Grant,618.0,Inner London,0
+Haringey,Services Grant,572.0,Inner London,0
+Harrow,Services Grant,277.0,Outer London,0
+Havering,Services Grant,241.0,Outer London,0
+Hillingdon,Services Grant,330.0,Outer London,0
+Hounslow,Services Grant,344.0,Outer London,0
+Islington,Services Grant,677.0,Inner London,0
+Kensington and Chelsea,Services Grant,368.0,Inner London,0
+Kingston upon Thames,Services Grant,154.0,Outer London,0
+Lambeth,Services Grant,779.0,Inner London,0
+Lewisham,Services Grant,664.0,Inner London,0
+Merton,Services Grant,251.0,Outer London,0
+Newham,Services Grant,778.0,Inner London,0
+Redbridge,Services Grant,373.0,Outer London,0
+Richmond upon Thames,Services Grant,158.0,Outer London,0
+Southwark,Services Grant,809.0,Inner London,0
+Sutton,Services Grant,254.0,Outer London,0
+Tower Hamlets,Services Grant,779.0,Inner London,0
+Waltham Forest,Services Grant,490.0,Outer London,0
+Wandsworth,Services Grant,516.0,Inner London,0
+Westminster,Services Grant,631.0,Inner London,0
+Barking and Dagenham,Adult Social Care Discharge Fund,2502.0,Outer London,0
+Barnet,Adult Social Care Discharge Fund,2248.0,Outer London,0
+Bexley,Adult Social Care Discharge Fund,1546.0,Outer London,0
+Brent,Adult Social Care Discharge Fund,3118.0,Outer London,0
+Bromley,Adult Social Care Discharge Fund,1806.0,Outer London,0
+Camden,Adult Social Care Discharge Fund,3008.0,Inner London,0
+Croydon,Adult Social Care Discharge Fund,2332.0,Outer London,0
+Ealing,Adult Social Care Discharge Fund,2963.0,Outer London,0
+Enfield,Adult Social Care Discharge Fund,2740.0,Outer London,0
+Greenwich,Adult Social Care Discharge Fund,3606.0,Outer London,0
+Hackney,Adult Social Care Discharge Fund,3887.0,Inner London,0
+Hammersmith and Fulham,Adult Social Care Discharge Fund,2343.0,Inner London,0
+Haringey,Adult Social Care Discharge Fund,2291.0,Inner London,0
+Harrow,Adult Social Care Discharge Fund,1557.0,Outer London,0
+Havering,Adult Social Care Discharge Fund,1595.0,Outer London,0
+Hillingdon,Adult Social Care Discharge Fund,1745.0,Outer London,0
+Hounslow,Adult Social Care Discharge Fund,1910.0,Outer London,0
+Islington,Adult Social Care Discharge Fund,3388.0,Inner London,0
+Kensington and Chelsea,Adult Social Care Discharge Fund,1790.0,Inner London,0
+Kingston upon Thames,Adult Social Care Discharge Fund,430.0,Outer London,0
+Lambeth,Adult Social Care Discharge Fund,3492.0,Inner London,0
+Lewisham,Adult Social Care Discharge Fund,3491.0,Inner London,0
+Merton,Adult Social Care Discharge Fund,1171.0,Outer London,0
+Newham,Adult Social Care Discharge Fund,4017.0,Inner London,0
+Redbridge,Adult Social Care Discharge Fund,2356.0,Outer London,0
+Richmond upon Thames,Adult Social Care Discharge Fund,181.0,Outer London,0
+Southwark,Adult Social Care Discharge Fund,4170.0,Inner London,0
+Sutton,Adult Social Care Discharge Fund,950.0,Outer London,0
+Tower Hamlets,Adult Social Care Discharge Fund,3928.0,Inner London,0
+Waltham Forest,Adult Social Care Discharge Fund,2217.0,Outer London,0
+Wandsworth,Adult Social Care Discharge Fund,3969.0,Inner London,0
+Westminster,Adult Social Care Discharge Fund,4124.0,Inner London,0
+Barking and Dagenham,Funding Guarantee,0.0,Outer London,0
+Barnet,Funding Guarantee,0.0,Outer London,0
+Bexley,Funding Guarantee,0.0,Outer London,0
+Brent,Funding Guarantee,1285.0,Outer London,0
+Bromley,Funding Guarantee,0.0,Outer London,0
+Camden,Funding Guarantee,0.0,Inner London,0
+Croydon,Funding Guarantee,0.0,Outer London,0
+Ealing,Funding Guarantee,0.0,Outer London,0
+Enfield,Funding Guarantee,0.0,Outer London,0
+Greenwich,Funding Guarantee,0.0,Outer London,0
+Hackney,Funding Guarantee,0.0,Inner London,0
+Hammersmith and Fulham,Funding Guarantee,0.0,Inner London,0
+Haringey,Funding Guarantee,0.0,Inner London,0
+Harrow,Funding Guarantee,2274.0,Outer London,0
+Havering,Funding Guarantee,0.0,Outer London,0
+Hillingdon,Funding Guarantee,0.0,Outer London,0
+Hounslow,Funding Guarantee,0.0,Outer London,0
+Islington,Funding Guarantee,0.0,Inner London,0
+Kensington and Chelsea,Funding Guarantee,0.0,Inner London,0
+Kingston upon Thames,Funding Guarantee,1436.0,Outer London,0
+Lambeth,Funding Guarantee,0.0,Inner London,0
+Lewisham,Funding Guarantee,0.0,Inner London,0
+Merton,Funding Guarantee,216.0,Outer London,0
+Newham,Funding Guarantee,0.0,Inner London,0
+Redbridge,Funding Guarantee,0.0,Outer London,0
+Richmond upon Thames,Funding Guarantee,2612.0,Outer London,0
+Southwark,Funding Guarantee,0.0,Inner London,0
+Sutton,Funding Guarantee,706.0,Outer London,0
+Tower Hamlets,Funding Guarantee,0.0,Inner London,0
+Waltham Forest,Funding Guarantee,0.0,Outer London,0
+Wandsworth,Funding Guarantee,0.0,Inner London,0
+Westminster,Funding Guarantee,0.0,Inner London,0
+Barking and Dagenham,Flexible Homelessness Support Grant,4449.0,Outer London,0
+Barnet,Flexible Homelessness Support Grant,5852.0,Outer London,0
+Bexley,Flexible Homelessness Support Grant,2803.0,Outer London,0
+Brent,Flexible Homelessness Support Grant,9413.0,Outer London,0
+Bromley,Flexible Homelessness Support Grant,3778.0,Outer London,0
+Camden,Flexible Homelessness Support Grant,2776.0,Inner London,0
+Croydon,Flexible Homelessness Support Grant,7450.0,Outer London,0
+Ealing,Flexible Homelessness Support Grant,6153.0,Outer London,0
+Enfield,Flexible Homelessness Support Grant,11308.0,Outer London,0
+Greenwich,Flexible Homelessness Support Grant,3773.0,Outer London,0
+Hackney,Flexible Homelessness Support Grant,6163.0,Inner London,0
+Hammersmith and Fulham,Flexible Homelessness Support Grant,3383.0,Inner London,0
+Haringey,Flexible Homelessness Support Grant,8605.0,Inner London,0
+Harrow,Flexible Homelessness Support Grant,2342.0,Outer London,0
+Havering,Flexible Homelessness Support Grant,2563.0,Outer London,0
+Hillingdon,Flexible Homelessness Support Grant,2630.0,Outer London,0
+Hounslow,Flexible Homelessness Support Grant,3067.0,Outer London,0
+Islington,Flexible Homelessness Support Grant,10534.0,Inner London,0
+Kensington and Chelsea,Flexible Homelessness Support Grant,6397.0,Inner London,0
+Kingston upon Thames,Flexible Homelessness Support Grant,1649.0,Outer London,0
+Lambeth,Flexible Homelessness Support Grant,6323.0,Inner London,0
+Lewisham,Flexible Homelessness Support Grant,5275.0,Inner London,0
+Merton,Flexible Homelessness Support Grant,1438.0,Outer London,0
+Newham,Flexible Homelessness Support Grant,11524.0,Inner London,0
+Redbridge,Flexible Homelessness Support Grant,5641.0,Outer London,0
+Richmond upon Thames,Flexible Homelessness Support Grant,1467.0,Outer London,0
+Southwark,Flexible Homelessness Support Grant,5833.0,Inner London,0
+Sutton,Flexible Homelessness Support Grant,1830.0,Outer London,0
+Tower Hamlets,Flexible Homelessness Support Grant,6080.0,Inner London,0
+Waltham Forest,Flexible Homelessness Support Grant,5640.0,Outer London,0
+Wandsworth,Flexible Homelessness Support Grant,4613.0,Inner London,0
+Westminster,Flexible Homelessness Support Grant,6979.0,Inner London,0
+Barking and Dagenham,Housing Benefit Subsidy Admin Grant,768.0,Outer London,0
+Barnet,Housing Benefit Subsidy Admin Grant,1249.0,Outer London,0
+Bexley,Housing Benefit Subsidy Admin Grant,688.0,Outer London,0
+Brent,Housing Benefit Subsidy Admin Grant,1334.0,Outer London,0
+Bromley,Housing Benefit Subsidy Admin Grant,736.0,Outer London,0
+Camden,Housing Benefit Subsidy Admin Grant,1304.0,Inner London,0
+Croydon,Housing Benefit Subsidy Admin Grant,1567.0,Outer London,0
+Ealing,Housing Benefit Subsidy Admin Grant,1075.0,Outer London,0
+Enfield,Housing Benefit Subsidy Admin Grant,1402.0,Outer London,0
+Greenwich,Housing Benefit Subsidy Admin Grant,1760.0,Outer London,0
+Hackney,Housing Benefit Subsidy Admin Grant,1726.0,Inner London,0
+Hammersmith and Fulham,Housing Benefit Subsidy Admin Grant,988.0,Inner London,0
+Haringey,Housing Benefit Subsidy Admin Grant,0.0,Inner London,0
+Harrow,Housing Benefit Subsidy Admin Grant,0.0,Outer London,0
+Havering,Housing Benefit Subsidy Admin Grant,96.0,Outer London,0
+Hillingdon,Housing Benefit Subsidy Admin Grant,973.0,Outer London,0
+Hounslow,Housing Benefit Subsidy Admin Grant,978.0,Outer London,0
+Islington,Housing Benefit Subsidy Admin Grant,1425.0,Inner London,0
+Kensington and Chelsea,Housing Benefit Subsidy Admin Grant,929.0,Inner London,0
+Kingston upon Thames,Housing Benefit Subsidy Admin Grant,386.0,Outer London,0
+Lambeth,Housing Benefit Subsidy Admin Grant,2254.0,Inner London,0
+Lewisham,Housing Benefit Subsidy Admin Grant,1557.0,Inner London,0
+Merton,Housing Benefit Subsidy Admin Grant,556.0,Outer London,0
+Newham,Housing Benefit Subsidy Admin Grant,2140.0,Inner London,0
+Redbridge,Housing Benefit Subsidy Admin Grant,805.0,Outer London,0
+Richmond upon Thames,Housing Benefit Subsidy Admin Grant,403.0,Outer London,0
+Southwark,Housing Benefit Subsidy Admin Grant,0.0,Inner London,0
+Sutton,Housing Benefit Subsidy Admin Grant,514.0,Outer London,0
+Tower Hamlets,Housing Benefit Subsidy Admin Grant,1786.0,Inner London,0
+Waltham Forest,Housing Benefit Subsidy Admin Grant,854.0,Outer London,0
+Wandsworth,Housing Benefit Subsidy Admin Grant,1322.0,Inner London,0
+Westminster,Housing Benefit Subsidy Admin Grant,1619.0,Inner London,0
+Barking and Dagenham,New Homes Bonus,2140.0,Outer London,0
+Barnet,New Homes Bonus,2496.0,Outer London,0
+Bexley,New Homes Bonus,942.0,Outer London,0
+Brent,New Homes Bonus,2906.0,Outer London,0
+Bromley,New Homes Bonus,409.0,Outer London,0
+Camden,New Homes Bonus,105.0,Inner London,0
+Croydon,New Homes Bonus,2471.0,Outer London,0
+Ealing,New Homes Bonus,5310.0,Outer London,0
+Enfield,New Homes Bonus,55.0,Outer London,0
+Greenwich,New Homes Bonus,1090.0,Outer London,0
+Hackney,New Homes Bonus,185.0,Inner London,0
+Hammersmith and Fulham,New Homes Bonus,1596.0,Inner London,0
+Haringey,New Homes Bonus,1789.0,Inner London,0
+Harrow,New Homes Bonus,82.0,Outer London,0
+Havering,New Homes Bonus,724.0,Outer London,0
+Hillingdon,New Homes Bonus,541.0,Outer London,0
+Hounslow,New Homes Bonus,2703.0,Outer London,0
+Islington,New Homes Bonus,615.0,Inner London,0
+Kensington and Chelsea,New Homes Bonus,35.0,Inner London,0
+Kingston upon Thames,New Homes Bonus,497.0,Outer London,0
+Lambeth,New Homes Bonus,1225.0,Inner London,0
+Lewisham,New Homes Bonus,1993.0,Inner London,0
+Merton,New Homes Bonus,152.0,Outer London,0
+Newham,New Homes Bonus,2794.0,Inner London,0
+Redbridge,New Homes Bonus,26.0,Outer London,0
+Richmond upon Thames,New Homes Bonus,13.0,Outer London,0
+Southwark,New Homes Bonus,4445.0,Inner London,0
+Sutton,New Homes Bonus,257.0,Outer London,0
+Tower Hamlets,New Homes Bonus,2171.0,Inner London,0
+Waltham Forest,New Homes Bonus,1379.0,Outer London,0
+Wandsworth,New Homes Bonus,6477.0,Inner London,0
+Westminster,New Homes Bonus,2441.0,Inner London,0
+Barking and Dagenham,The Private Finance Initiative (PFI),7634.0,Outer London,0
+Barnet,The Private Finance Initiative (PFI),2235.0,Outer London,0
+Bexley,The Private Finance Initiative (PFI),2984.0,Outer London,0
+Brent,The Private Finance Initiative (PFI),5543.0,Outer London,0
+Bromley,The Private Finance Initiative (PFI),0.0,Outer London,0
+Camden,The Private Finance Initiative (PFI),0.0,Inner London,0
+Croydon,The Private Finance Initiative (PFI),2869.0,Outer London,0
+Ealing,The Private Finance Initiative (PFI),15806.0,Outer London,0
+Enfield,The Private Finance Initiative (PFI),6799.0,Outer London,0
+Greenwich,The Private Finance Initiative (PFI),14382.0,Outer London,0
+Hackney,The Private Finance Initiative (PFI),1387.0,Inner London,0
+Hammersmith and Fulham,The Private Finance Initiative (PFI),1429.0,Inner London,0
+Haringey,The Private Finance Initiative (PFI),0.0,Inner London,0
+Harrow,The Private Finance Initiative (PFI),2509.0,Outer London,0
+Havering,The Private Finance Initiative (PFI),0.0,Outer London,0
+Hillingdon,The Private Finance Initiative (PFI),1803.0,Outer London,0
+Hounslow,The Private Finance Initiative (PFI),13162.0,Outer London,0
+Islington,The Private Finance Initiative (PFI),1025.0,Inner London,0
+Kensington and Chelsea,The Private Finance Initiative (PFI),0.0,Inner London,0
+Kingston upon Thames,The Private Finance Initiative (PFI),0.0,Outer London,0
+Lambeth,The Private Finance Initiative (PFI),3676.0,Inner London,0
+Lewisham,The Private Finance Initiative (PFI),26559.0,Inner London,0
+Merton,The Private Finance Initiative (PFI),4797.0,Outer London,0
+Newham,The Private Finance Initiative (PFI),5646.0,Inner London,0
+Redbridge,The Private Finance Initiative (PFI),0.0,Outer London,0
+Richmond upon Thames,The Private Finance Initiative (PFI),2194.0,Outer London,0
+Southwark,The Private Finance Initiative (PFI),0.0,Inner London,0
+Sutton,The Private Finance Initiative (PFI),0.0,Outer London,0
+Tower Hamlets,The Private Finance Initiative (PFI),9380.0,Inner London,0
+Waltham Forest,The Private Finance Initiative (PFI),31053.0,Outer London,0
+Wandsworth,The Private Finance Initiative (PFI),0.0,Inner London,0
+Westminster,The Private Finance Initiative (PFI),410.0,Inner London,0
+Barking and Dagenham,Police Officer Uplift Grant,0.0,Outer London,0
+Barnet,Police Officer Uplift Grant,0.0,Outer London,0
+Bexley,Police Officer Uplift Grant,0.0,Outer London,0
+Brent,Police Officer Uplift Grant,0.0,Outer London,0
+Bromley,Police Officer Uplift Grant,0.0,Outer London,0
+Camden,Police Officer Uplift Grant,0.0,Inner London,0
+Croydon,Police Officer Uplift Grant,0.0,Outer London,0
+Ealing,Police Officer Uplift Grant,0.0,Outer London,0
+Enfield,Police Officer Uplift Grant,0.0,Outer London,0
+Greenwich,Police Officer Uplift Grant,0.0,Outer London,0
+Hackney,Police Officer Uplift Grant,0.0,Inner London,0
+Hammersmith and Fulham,Police Officer Uplift Grant,0.0,Inner London,0
+Haringey,Police Officer Uplift Grant,0.0,Inner London,0
+Harrow,Police Officer Uplift Grant,0.0,Outer London,0
+Havering,Police Officer Uplift Grant,0.0,Outer London,0
+Hillingdon,Police Officer Uplift Grant,0.0,Outer London,0
+Hounslow,Police Officer Uplift Grant,0.0,Outer London,0
+Islington,Police Officer Uplift Grant,0.0,Inner London,0
+Kensington and Chelsea,Police Officer Uplift Grant,0.0,Inner London,0
+Kingston upon Thames,Police Officer Uplift Grant,0.0,Outer London,0
+Lambeth,Police Officer Uplift Grant,0.0,Inner London,0
+Lewisham,Police Officer Uplift Grant,0.0,Inner London,0
+Merton,Police Officer Uplift Grant,0.0,Outer London,0
+Newham,Police Officer Uplift Grant,0.0,Inner London,0
+Redbridge,Police Officer Uplift Grant,0.0,Outer London,0
+Richmond upon Thames,Police Officer Uplift Grant,0.0,Outer London,0
+Southwark,Police Officer Uplift Grant,0.0,Inner London,0
+Sutton,Police Officer Uplift Grant,0.0,Outer London,0
+Tower Hamlets,Police Officer Uplift Grant,0.0,Inner London,0
+Waltham Forest,Police Officer Uplift Grant,0.0,Outer London,0
+Wandsworth,Police Officer Uplift Grant,0.0,Inner London,0
+Westminster,Police Officer Uplift Grant,0.0,Inner London,0
+Barking and Dagenham,Other grants within AEF ,1019.0,Outer London,0
+Barnet,Other grants within AEF ,567.0,Outer London,0
+Bexley,Other grants within AEF ,5594.0,Outer London,0
+Brent,Other grants within AEF ,15086.0,Outer London,0
+Bromley,Other grants within AEF ,20139.0,Outer London,0
+Camden,Other grants within AEF ,22166.0,Inner London,0
+Croydon,Other grants within AEF ,25712.0,Outer London,0
+Ealing,Other grants within AEF ,5426.0,Outer London,0
+Enfield,Other grants within AEF ,33281.0,Outer London,0
+Greenwich,Other grants within AEF ,3444.0,Outer London,0
+Hackney,Other grants within AEF ,14123.0,Inner London,0
+Hammersmith and Fulham,Other grants within AEF ,2121.0,Inner London,0
+Haringey,Other grants within AEF ,28511.0,Inner London,0
+Harrow,Other grants within AEF ,0.0,Outer London,0
+Havering,Other grants within AEF ,22283.0,Outer London,0
+Hillingdon,Other grants within AEF ,31685.0,Outer London,0
+Hounslow,Other grants within AEF ,14396.0,Outer London,0
+Islington,Other grants within AEF ,9739.0,Inner London,0
+Kensington and Chelsea,Other grants within AEF ,5455.0,Inner London,0
+Kingston upon Thames,Other grants within AEF ,4386.0,Outer London,0
+Lambeth,Other grants within AEF ,35801.0,Inner London,0
+Lewisham,Other grants within AEF ,0.0,Inner London,0
+Merton,Other grants within AEF ,7376.0,Outer London,0
+Newham,Other grants within AEF ,2013.0,Inner London,0
+Redbridge,Other grants within AEF ,14264.0,Outer London,0
+Richmond upon Thames,Other grants within AEF ,9822.0,Outer London,0
+Southwark,Other grants within AEF ,165382.0,Inner London,0
+Sutton,Other grants within AEF ,4200.0,Outer London,0
+Tower Hamlets,Other grants within AEF ,6562.0,Inner London,0
+Waltham Forest,Other grants within AEF ,4789.0,Outer London,0
+Wandsworth,Other grants within AEF ,9264.0,Inner London,0
+Westminster,Other grants within AEF ,16900.0,Inner London,0
+Barking and Dagenham,Adult and Community Learning from the ESFA,1852.0,Outer London,0
+Barnet,Adult and Community Learning from the ESFA,0.0,Outer London,0
+Bexley,Adult and Community Learning from the ESFA,3172.0,Outer London,0
+Brent,Adult and Community Learning from the ESFA,0.0,Outer London,0
+Bromley,Adult and Community Learning from the ESFA,30.0,Outer London,0
+Camden,Adult and Community Learning from the ESFA,1400.0,Inner London,0
+Croydon,Adult and Community Learning from the ESFA,4630.0,Outer London,0
+Ealing,Adult and Community Learning from the ESFA,0.0,Outer London,0
+Enfield,Adult and Community Learning from the ESFA,0.0,Outer London,0
+Greenwich,Adult and Community Learning from the ESFA,1959.0,Outer London,0
+Hackney,Adult and Community Learning from the ESFA,0.0,Inner London,0
+Hammersmith and Fulham,Adult and Community Learning from the ESFA,0.0,Inner London,0
+Haringey,Adult and Community Learning from the ESFA,1749.0,Inner London,0
+Harrow,Adult and Community Learning from the ESFA,482.0,Outer London,0
+Havering,Adult and Community Learning from the ESFA,1235.0,Outer London,0
+Hillingdon,Adult and Community Learning from the ESFA,1890.0,Outer London,0
+Hounslow,Adult and Community Learning from the ESFA,2884.0,Outer London,0
+Islington,Adult and Community Learning from the ESFA,1129.0,Inner London,0
+Kensington and Chelsea,Adult and Community Learning from the ESFA,0.0,Inner London,0
+Kingston upon Thames,Adult and Community Learning from the ESFA,0.0,Outer London,0
+Lambeth,Adult and Community Learning from the ESFA,2625.0,Inner London,0
+Lewisham,Adult and Community Learning from the ESFA,3657.0,Inner London,0
+Merton,Adult and Community Learning from the ESFA,32.0,Outer London,0
+Newham,Adult and Community Learning from the ESFA,0.0,Inner London,0
+Redbridge,Adult and Community Learning from the ESFA,2760.0,Outer London,0
+Richmond upon Thames,Adult and Community Learning from the ESFA,0.0,Outer London,0
+Southwark,Adult and Community Learning from the ESFA,0.0,Inner London,0
+Sutton,Adult and Community Learning from the ESFA,164.0,Outer London,0
+Tower Hamlets,Adult and Community Learning from the ESFA,36.0,Inner London,0
+Waltham Forest,Adult and Community Learning from the ESFA,552.0,Outer London,0
+Wandsworth,Adult and Community Learning from the ESFA,2021.0,Inner London,0
+Westminster,Adult and Community Learning from the ESFA,9306.0,Inner London,0
+Barking and Dagenham,Sixth Form Funding from the ESFA,11920.0,Outer London,0
+Barnet,Sixth Form Funding from the ESFA,0.0,Outer London,0
+Bexley,Sixth Form Funding from the ESFA,0.0,Outer London,0
+Brent,Sixth Form Funding from the ESFA,3940.0,Outer London,0
+Bromley,Sixth Form Funding from the ESFA,2989.0,Outer London,0
+Camden,Sixth Form Funding from the ESFA,0.0,Inner London,0
+Croydon,Sixth Form Funding from the ESFA,0.0,Outer London,0
+Ealing,Sixth Form Funding from the ESFA,11886.0,Outer London,0
+Enfield,Sixth Form Funding from the ESFA,14232.0,Outer London,0
+Greenwich,Sixth Form Funding from the ESFA,6364.0,Outer London,0
+Hackney,Sixth Form Funding from the ESFA,5676.0,Inner London,0
+Hammersmith and Fulham,Sixth Form Funding from the ESFA,5211.0,Inner London,0
+Haringey,Sixth Form Funding from the ESFA,0.0,Inner London,0
+Harrow,Sixth Form Funding from the ESFA,183.0,Outer London,0
+Havering,Sixth Form Funding from the ESFA,0.0,Outer London,0
+Hillingdon,Sixth Form Funding from the ESFA,1428.0,Outer London,0
+Hounslow,Sixth Form Funding from the ESFA,0.0,Outer London,0
+Islington,Sixth Form Funding from the ESFA,3419.0,Inner London,0
+Kensington and Chelsea,Sixth Form Funding from the ESFA,0.0,Inner London,0
+Kingston upon Thames,Sixth Form Funding from the ESFA,0.0,Outer London,0
+Lambeth,Sixth Form Funding from the ESFA,0.0,Inner London,0
+Lewisham,Sixth Form Funding from the ESFA,3009.0,Inner London,0
+Merton,Sixth Form Funding from the ESFA,8524.0,Outer London,0
+Newham,Sixth Form Funding from the ESFA,4638.0,Inner London,0
+Redbridge,Sixth Form Funding from the ESFA,23181.0,Outer London,0
+Richmond upon Thames,Sixth Form Funding from the ESFA,0.0,Outer London,0
+Southwark,Sixth Form Funding from the ESFA,0.0,Inner London,0
+Sutton,Sixth Form Funding from the ESFA,1364.0,Outer London,0
+Tower Hamlets,Sixth Form Funding from the ESFA,15308.0,Inner London,0
+Waltham Forest,Sixth Form Funding from the ESFA,0.0,Outer London,0
+Wandsworth,Sixth Form Funding from the ESFA,1139.0,Inner London,0
+Westminster,Sixth Form Funding from the ESFA,0.0,Inner London,0
+Barking and Dagenham,Mandatory Rent Allowances: subsidy ,31744.0,Outer London,0
+Barnet,Mandatory Rent Allowances: subsidy ,123976.0,Outer London,0
+Bexley,Mandatory Rent Allowances: subsidy ,57329.0,Outer London,0
+Brent,Mandatory Rent Allowances: subsidy ,181404.0,Outer London,0
+Bromley,Mandatory Rent Allowances: subsidy ,59047.0,Outer London,0
+Camden,Mandatory Rent Allowances: subsidy ,64444.0,Inner London,0
+Croydon,Mandatory Rent Allowances: subsidy ,84148.0,Outer London,0
+Ealing,Mandatory Rent Allowances: subsidy ,98697.0,Outer London,0
+Enfield,Mandatory Rent Allowances: subsidy ,131263.0,Outer London,0
+Greenwich,Mandatory Rent Allowances: subsidy ,72263.0,Outer London,0
+Hackney,Mandatory Rent Allowances: subsidy ,193966.0,Inner London,0
+Hammersmith and Fulham,Mandatory Rent Allowances: subsidy ,51389.0,Inner London,0
+Haringey,Mandatory Rent Allowances: subsidy ,156201.0,Inner London,0
+Harrow,Mandatory Rent Allowances: subsidy ,66738.0,Outer London,0
+Havering,Mandatory Rent Allowances: subsidy ,44445.0,Outer London,0
+Hillingdon,Mandatory Rent Allowances: subsidy ,62419.0,Outer London,0
+Hounslow,Mandatory Rent Allowances: subsidy ,60235.0,Outer London,0
+Islington,Mandatory Rent Allowances: subsidy ,72167.0,Inner London,0
+Kensington and Chelsea,Mandatory Rent Allowances: subsidy ,60938.0,Inner London,0
+Kingston upon Thames,Mandatory Rent Allowances: subsidy ,29194.0,Outer London,0
+Lambeth,Mandatory Rent Allowances: subsidy ,90768.0,Inner London,0
+Lewisham,Mandatory Rent Allowances: subsidy ,116519.0,Inner London,0
+Merton,Mandatory Rent Allowances: subsidy ,50200.0,Outer London,0
+Newham,Mandatory Rent Allowances: subsidy ,0.0,Inner London,0
+Redbridge,Mandatory Rent Allowances: subsidy ,94789.0,Outer London,0
+Richmond upon Thames,Mandatory Rent Allowances: subsidy ,42185.0,Outer London,0
+Southwark,Mandatory Rent Allowances: subsidy ,46024.0,Inner London,0
+Sutton,Mandatory Rent Allowances: subsidy ,26166.0,Outer London,0
+Tower Hamlets,Mandatory Rent Allowances: subsidy ,114298.0,Inner London,0
+Waltham Forest,Mandatory Rent Allowances: subsidy ,138484.0,Outer London,0
+Wandsworth,Mandatory Rent Allowances: subsidy ,69341.0,Inner London,0
+Westminster,Mandatory Rent Allowances: subsidy ,97541.0,Inner London,0
+Barking and Dagenham,Mandatory Rent Rebates outside HRA: subsidy ,10373.0,Outer London,0
+Barnet,Mandatory Rent Rebates outside HRA: subsidy ,16700.0,Outer London,0
+Bexley,Mandatory Rent Rebates outside HRA: subsidy ,0.0,Outer London,0
+Brent,Mandatory Rent Rebates outside HRA: subsidy ,17972.0,Outer London,0
+Bromley,Mandatory Rent Rebates outside HRA: subsidy ,11222.0,Outer London,0
+Camden,Mandatory Rent Rebates outside HRA: subsidy ,0.0,Inner London,0
+Croydon,Mandatory Rent Rebates outside HRA: subsidy ,20854.0,Outer London,0
+Ealing,Mandatory Rent Rebates outside HRA: subsidy ,29398.0,Outer London,0
+Enfield,Mandatory Rent Rebates outside HRA: subsidy ,41822.0,Outer London,0
+Greenwich,Mandatory Rent Rebates outside HRA: subsidy ,13161.0,Outer London,0
+Hackney,Mandatory Rent Rebates outside HRA: subsidy ,31431.0,Inner London,0
+Hammersmith and Fulham,Mandatory Rent Rebates outside HRA: subsidy ,8149.0,Inner London,0
+Haringey,Mandatory Rent Rebates outside HRA: subsidy ,26789.0,Inner London,0
+Harrow,Mandatory Rent Rebates outside HRA: subsidy ,0.0,Outer London,0
+Havering,Mandatory Rent Rebates outside HRA: subsidy ,6239.0,Outer London,0
+Hillingdon,Mandatory Rent Rebates outside HRA: subsidy ,2873.0,Outer London,0
+Hounslow,Mandatory Rent Rebates outside HRA: subsidy ,2573.0,Outer London,0
+Islington,Mandatory Rent Rebates outside HRA: subsidy ,0.0,Inner London,0
+Kensington and Chelsea,Mandatory Rent Rebates outside HRA: subsidy ,31214.0,Inner London,0
+Kingston upon Thames,Mandatory Rent Rebates outside HRA: subsidy ,6659.0,Outer London,0
+Lambeth,Mandatory Rent Rebates outside HRA: subsidy ,28745.0,Inner London,0
+Lewisham,Mandatory Rent Rebates outside HRA: subsidy ,10723.0,Inner London,0
+Merton,Mandatory Rent Rebates outside HRA: subsidy ,5000.0,Outer London,0
+Newham,Mandatory Rent Rebates outside HRA: subsidy ,39796.0,Inner London,0
+Redbridge,Mandatory Rent Rebates outside HRA: subsidy ,28426.0,Outer London,0
+Richmond upon Thames,Mandatory Rent Rebates outside HRA: subsidy ,2478.0,Outer London,0
+Southwark,Mandatory Rent Rebates outside HRA: subsidy ,20034.0,Inner London,0
+Sutton,Mandatory Rent Rebates outside HRA: subsidy ,7164.0,Outer London,0
+Tower Hamlets,Mandatory Rent Rebates outside HRA: subsidy ,25328.0,Inner London,0
+Waltham Forest,Mandatory Rent Rebates outside HRA: subsidy ,12682.0,Outer London,0
+Wandsworth,Mandatory Rent Rebates outside HRA: subsidy ,13839.0,Inner London,0
+Westminster,Mandatory Rent Rebates outside HRA: subsidy ,39959.0,Inner London,0
+Barking and Dagenham,Rent Rebates Granted to HRA Tenants: subsidy,27619.0,Outer London,0
+Barnet,Rent Rebates Granted to HRA Tenants: subsidy,19060.0,Outer London,0
+Bexley,Rent Rebates Granted to HRA Tenants: subsidy,0.0,Outer London,0
+Brent,Rent Rebates Granted to HRA Tenants: subsidy,19458.0,Outer London,0
+Bromley,Rent Rebates Granted to HRA Tenants: subsidy,0.0,Outer London,0
+Camden,Rent Rebates Granted to HRA Tenants: subsidy,60454.0,Inner London,0
+Croydon,Rent Rebates Granted to HRA Tenants: subsidy,24466.0,Outer London,0
+Ealing,Rent Rebates Granted to HRA Tenants: subsidy,24417.0,Outer London,0
+Enfield,Rent Rebates Granted to HRA Tenants: subsidy,21544.0,Outer London,0
+Greenwich,Rent Rebates Granted to HRA Tenants: subsidy,38902.0,Outer London,0
+Hackney,Rent Rebates Granted to HRA Tenants: subsidy,64136.0,Inner London,0
+Hammersmith and Fulham,Rent Rebates Granted to HRA Tenants: subsidy,25414.0,Inner London,0
+Haringey,Rent Rebates Granted to HRA Tenants: subsidy,49095.0,Inner London,0
+Harrow,Rent Rebates Granted to HRA Tenants: subsidy,25790.0,Outer London,0
+Havering,Rent Rebates Granted to HRA Tenants: subsidy,24954.0,Outer London,0
+Hillingdon,Rent Rebates Granted to HRA Tenants: subsidy,23718.0,Outer London,0
+Hounslow,Rent Rebates Granted to HRA Tenants: subsidy,30672.0,Outer London,0
+Islington,Rent Rebates Granted to HRA Tenants: subsidy,72894.0,Inner London,0
+Kensington and Chelsea,Rent Rebates Granted to HRA Tenants: subsidy,20753.0,Inner London,0
+Kingston upon Thames,Rent Rebates Granted to HRA Tenants: subsidy,13220.0,Outer London,0
+Lambeth,Rent Rebates Granted to HRA Tenants: subsidy,41151.0,Inner London,0
+Lewisham,Rent Rebates Granted to HRA Tenants: subsidy,27577.0,Inner London,0
+Merton,Rent Rebates Granted to HRA Tenants: subsidy,0.0,Outer London,0
+Newham,Rent Rebates Granted to HRA Tenants: subsidy,171860.0,Inner London,0
+Redbridge,Rent Rebates Granted to HRA Tenants: subsidy,10914.0,Outer London,0
+Richmond upon Thames,Rent Rebates Granted to HRA Tenants: subsidy,0.0,Outer London,0
+Southwark,Rent Rebates Granted to HRA Tenants: subsidy,60608.0,Inner London,0
+Sutton,Rent Rebates Granted to HRA Tenants: subsidy,9554.0,Outer London,0
+Tower Hamlets,Rent Rebates Granted to HRA Tenants: subsidy,31634.0,Inner London,0
+Waltham Forest,Rent Rebates Granted to HRA Tenants: subsidy,35172.0,Outer London,0
+Wandsworth,Rent Rebates Granted to HRA Tenants: subsidy,45037.0,Inner London,0
+Westminster,Rent Rebates Granted to HRA Tenants: subsidy,39959.0,Inner London,0
+Barking and Dagenham,Other grants outside AEF ,0.0,Outer London,0
+Barnet,Other grants outside AEF ,11400.0,Outer London,0
+Bexley,Other grants outside AEF ,0.0,Outer London,0
+Brent,Other grants outside AEF ,4320.0,Outer London,0
+Bromley,Other grants outside AEF ,2465.0,Outer London,0
+Camden,Other grants outside AEF ,0.0,Inner London,0
+Croydon,Other grants outside AEF ,129.0,Outer London,0
+Ealing,Other grants outside AEF ,2586.0,Outer London,0
+Enfield,Other grants outside AEF ,0.0,Outer London,0
+Greenwich,Other grants outside AEF ,1504.0,Outer London,0
+Hackney,Other grants outside AEF ,0.0,Inner London,0
+Hammersmith and Fulham,Other grants outside AEF ,0.0,Inner London,0
+Haringey,Other grants outside AEF ,289.0,Inner London,0
+Harrow,Other grants outside AEF ,0.0,Outer London,0
+Havering,Other grants outside AEF ,1486.0,Outer London,0
+Hillingdon,Other grants outside AEF ,0.0,Outer London,0
+Hounslow,Other grants outside AEF ,0.0,Outer London,0
+Islington,Other grants outside AEF ,0.0,Inner London,0
+Kensington and Chelsea,Other grants outside AEF ,473.0,Inner London,0
+Kingston upon Thames,Other grants outside AEF ,0.0,Outer London,0
+Lambeth,Other grants outside AEF ,0.0,Inner London,0
+Lewisham,Other grants outside AEF ,35060.0,Inner London,0
+Merton,Other grants outside AEF ,1226.0,Outer London,0
+Newham,Other grants outside AEF ,3460.0,Inner London,0
+Redbridge,Other grants outside AEF ,1428.0,Outer London,0
+Richmond upon Thames,Other grants outside AEF ,304.0,Outer London,0
+Southwark,Other grants outside AEF ,0.0,Inner London,0
+Sutton,Other grants outside AEF ,2776.0,Outer London,0
+Tower Hamlets,Other grants outside AEF ,14870.0,Inner London,0
+Waltham Forest,Other grants outside AEF ,8436.0,Outer London,0
+Wandsworth,Other grants outside AEF ,787.0,Inner London,0
+Westminster,Other grants outside AEF ,0.0,Inner London,0
+Barking and Dagenham,Dedicated Schools Grant (DSG) - per capita,1303.1429876656007,Outer London,1
+Barnet,Dedicated Schools Grant (DSG) - per capita,682.7819162599537,Outer London,1
+Bexley,Dedicated Schools Grant (DSG) - per capita,427.22515212981745,Outer London,1
+Brent,Dedicated Schools Grant (DSG) - per capita,695.9152442613301,Outer London,1
+Bromley,Dedicated Schools Grant (DSG) - per capita,352.8878787878788,Outer London,1
+Camden,Dedicated Schools Grant (DSG) - per capita,1009.2003807710614,Inner London,1
+Croydon,Dedicated Schools Grant (DSG) - per capita,547.7149437052201,Outer London,1
+Ealing,Dedicated Schools Grant (DSG) - per capita,915.3282484336693,Outer London,1
+Enfield,Dedicated Schools Grant (DSG) - per capita,786.3939393939394,Outer London,1
+Greenwich,Dedicated Schools Grant (DSG) - per capita,882.5250778277413,Outer London,1
+Hackney,Dedicated Schools Grant (DSG) - per capita,984.645061728395,Inner London,1
+Hammersmith and Fulham,Dedicated Schools Grant (DSG) - per capita,493.4552401746725,Inner London,1
+Haringey,Dedicated Schools Grant (DSG) - per capita,1185.8478425435276,Inner London,1
+Harrow,Dedicated Schools Grant (DSG) - per capita,632.7210103329506,Outer London,1
+Havering,Dedicated Schools Grant (DSG) - per capita,645.2824427480916,Outer London,1
+Hillingdon,Dedicated Schools Grant (DSG) - per capita,695.4233409610983,Outer London,1
+Hounslow,Dedicated Schools Grant (DSG) - per capita,741.8147120055517,Outer London,1
+Islington,Dedicated Schools Grant (DSG) - per capita,774.6214219759926,Inner London,1
+Kensington and Chelsea,Dedicated Schools Grant (DSG) - per capita,553.8493723849373,Inner London,1
+Kingston upon Thames,Dedicated Schools Grant (DSG) - per capita,581.3571428571429,Outer London,1
+Lambeth,Dedicated Schools Grant (DSG) - per capita,805.9068010075566,Inner London,1
+Lewisham,Dedicated Schools Grant (DSG) - per capita,924.121756487026,Inner London,1
+Merton,Dedicated Schools Grant (DSG) - per capita,897.4395910780669,Outer London,1
+Newham,Dedicated Schools Grant (DSG) - per capita,760.6949587012248,Inner London,1
+Redbridge,Dedicated Schools Grant (DSG) - per capita,975.0402835965195,Outer London,1
+Richmond upon Thames,Dedicated Schools Grant (DSG) - per capita,678.201844262295,Outer London,1
+Southwark,Dedicated Schools Grant (DSG) - per capita,0.0,Inner London,1
+Sutton,Dedicated Schools Grant (DSG) - per capita,654.1507633587786,Outer London,1
+Tower Hamlets,Dedicated Schools Grant (DSG) - per capita,1396.3035771833709,Inner London,1
+Waltham Forest,Dedicated Schools Grant (DSG) - per capita,755.1221264367816,Outer London,1
+Wandsworth,Dedicated Schools Grant (DSG) - per capita,520.0213740458015,Inner London,1
+Westminster,Dedicated Schools Grant (DSG) - per capita,465.3206069505629,Inner London,1
+Barking and Dagenham,Pupil Premium Grant - per capita,71.77706715395158,Outer London,1
+Barnet,Pupil Premium Grant - per capita,0.0,Outer London,1
+Bexley,Pupil Premium Grant - per capita,5.578093306288032,Outer London,1
+Brent,Pupil Premium Grant - per capita,19.193643319599765,Outer London,1
+Bromley,Pupil Premium Grant - per capita,3.9393939393939394,Outer London,1
+Camden,Pupil Premium Grant - per capita,2.018086625416468,Inner London,1
+Croydon,Pupil Premium Grant - per capita,2.983623336745138,Outer London,1
+Ealing,Pupil Premium Grant - per capita,36.70389539634977,Outer London,1
+Enfield,Pupil Premium Grant - per capita,31.045454545454547,Outer London,1
+Greenwich,Pupil Premium Grant - per capita,34.13005880318229,Outer London,1
+Hackney,Pupil Premium Grant - per capita,44.21682098765432,Inner London,1
+Hammersmith and Fulham,Pupil Premium Grant - per capita,18.34061135371179,Inner London,1
+Haringey,Pupil Premium Grant - per capita,0.0,Inner London,1
+Harrow,Pupil Premium Grant - per capita,0.0,Outer London,1
+Havering,Pupil Premium Grant - per capita,20.34732824427481,Outer London,1
+Hillingdon,Pupil Premium Grant - per capita,27.796665576985944,Outer London,1
+Hounslow,Pupil Premium Grant - per capita,41.48854961832061,Outer London,1
+Islington,Pupil Premium Grant - per capita,52.91320406278855,Inner London,1
+Kensington and Chelsea,Pupil Premium Grant - per capita,24.09344490934449,Inner London,1
+Kingston upon Thames,Pupil Premium Grant - per capita,14.660714285714286,Outer London,1
+Lambeth,Pupil Premium Grant - per capita,2.2386649874055418,Inner London,1
+Lewisham,Pupil Premium Grant - per capita,35.48236859614105,Inner London,1
+Merton,Pupil Premium Grant - per capita,27.75557620817844,Outer London,1
+Newham,Pupil Premium Grant - per capita,29.03731130731985,Inner London,1
+Redbridge,Pupil Premium Grant - per capita,25.362552368675477,Outer London,1
+Richmond upon Thames,Pupil Premium Grant - per capita,15.76844262295082,Outer London,1
+Southwark,Pupil Premium Grant - per capita,0.0,Inner London,1
+Sutton,Pupil Premium Grant - per capita,14.627862595419847,Outer London,1
+Tower Hamlets,Pupil Premium Grant - per capita,55.172413793103445,Inner London,1
+Waltham Forest,Pupil Premium Grant - per capita,25.24066091954023,Outer London,1
+Wandsworth,Pupil Premium Grant - per capita,18.369465648854963,Inner London,1
+Westminster,Pupil Premium Grant - per capita,25.41850220264317,Inner London,1
+Barking and Dagenham,Universal Infants Free School Meals - per capita,9.456372772955687,Outer London,1
+Barnet,Universal Infants Free School Meals - per capita,0.0,Outer London,1
+Bexley,Universal Infants Free School Meals - per capita,3.103448275862069,Outer London,1
+Brent,Universal Infants Free School Meals - per capita,9.058269570335492,Outer London,1
+Bromley,Universal Infants Free School Meals - per capita,0.7090909090909091,Outer London,1
+Camden,Universal Infants Free School Meals - per capita,0.0,Inner London,1
+Croydon,Universal Infants Free School Meals - per capita,0.0,Outer London,1
+Ealing,Universal Infants Free School Meals - per capita,9.267229637700899,Outer London,1
+Enfield,Universal Infants Free School Meals - per capita,6.918181818181818,Outer London,1
+Greenwich,Universal Infants Free School Meals - per capita,0.0,Outer London,1
+Hackney,Universal Infants Free School Meals - per capita,6.7592592592592595,Inner London,1
+Hammersmith and Fulham,Universal Infants Free School Meals - per capita,4.503275109170306,Inner London,1
+Haringey,Universal Infants Free School Meals - per capita,0.0,Inner London,1
+Harrow,Universal Infants Free School Meals - per capita,0.0,Outer London,1
+Havering,Universal Infants Free School Meals - per capita,10.938931297709924,Outer London,1
+Hillingdon,Universal Infants Free School Meals - per capita,0.0,Outer London,1
+Hounslow,Universal Infants Free School Meals - per capita,0.0,Outer London,1
+Islington,Universal Infants Free School Meals - per capita,3.2317636195752537,Inner London,1
+Kensington and Chelsea,Universal Infants Free School Meals - per capita,5.557880055788005,Inner London,1
+Kingston upon Thames,Universal Infants Free School Meals - per capita,0.0,Outer London,1
+Lambeth,Universal Infants Free School Meals - per capita,0.0,Inner London,1
+Lewisham,Universal Infants Free School Meals - per capita,15.422488356620093,Inner London,1
+Merton,Universal Infants Free School Meals - per capita,0.0,Outer London,1
+Newham,Universal Infants Free School Meals - per capita,5.8872116206209055,Inner London,1
+Redbridge,Universal Infants Free School Meals - per capita,11.601675797615211,Outer London,1
+Richmond upon Thames,Universal Infants Free School Meals - per capita,11.65983606557377,Outer London,1
+Southwark,Universal Infants Free School Meals - per capita,0.0,Inner London,1
+Sutton,Universal Infants Free School Meals - per capita,5.019083969465649,Outer London,1
+Tower Hamlets,Universal Infants Free School Meals - per capita,7.379954882371898,Inner London,1
+Waltham Forest,Universal Infants Free School Meals - per capita,3.969109195402299,Outer London,1
+Wandsworth,Universal Infants Free School Meals - per capita,0.0,Inner London,1
+Westminster,Universal Infants Free School Meals - per capita,5.535976505139501,Inner London,1
+Barking and Dagenham,Public Health Grant  - per capita,85.69666514390133,Outer London,1
+Barnet,Public Health Grant  - per capita,49.39121500128436,Outer London,1
+Bexley,Public Health Grant  - per capita,44.17849898580122,Outer London,1
+Brent,Public Health Grant  - per capita,71.33608004708653,Outer London,1
+Bromley,Public Health Grant  - per capita,49.68787878787879,Outer London,1
+Camden,Public Health Grant  - per capita,141.3660161827701,Inner London,1
+Croydon,Public Health Grant  - per capita,61.7553735926305,Outer London,1
+Ealing,Public Health Grant  - per capita,74.68537183328793,Outer London,1
+Enfield,Public Health Grant  - per capita,57.663636363636364,Outer London,1
+Greenwich,Public Health Grant  - per capita,89.64372189553788,Outer London,1
+Hackney,Public Health Grant  - per capita,146.00694444444446,Inner London,1
+Hammersmith and Fulham,Public Health Grant  - per capita,132.82205240174673,Inner London,1
+Haringey,Public Health Grant  - per capita,86.0219530658592,Inner London,1
+Harrow,Public Health Grant  - per capita,47.02640642939151,Outer London,1
+Havering,Public Health Grant  - per capita,46.896946564885496,Outer London,1
+Hillingdon,Public Health Grant  - per capita,63.40634194181105,Outer London,1
+Hounslow,Public Health Grant  - per capita,60.12838306731437,Outer London,1
+Islington,Public Health Grant  - per capita,135.8956602031394,Inner London,1
+Kensington and Chelsea,Public Health Grant  - per capita,162.78242677824267,Inner London,1
+Kingston upon Thames,Public Health Grant  - per capita,67.85714285714286,Outer London,1
+Lambeth,Public Health Grant  - per capita,113.35012594458438,Inner London,1
+Lewisham,Public Health Grant  - per capita,91.67332002661344,Inner London,1
+Merton,Public Health Grant  - per capita,54.40985130111524,Outer London,1
+Newham,Public Health Grant  - per capita,97.490743377955,Inner London,1
+Redbridge,Public Health Grant  - per capita,49.658395101514664,Outer London,1
+Richmond upon Thames,Public Health Grant  - per capita,52.920081967213115,Outer London,1
+Southwark,Public Health Grant  - per capita,101.1569710757231,Inner London,1
+Sutton,Public Health Grant  - per capita,52.57156488549618,Outer London,1
+Tower Hamlets,Public Health Grant  - per capita,126.40670319046085,Inner London,1
+Waltham Forest,Public Health Grant  - per capita,64.13433908045977,Outer London,1
+Wandsworth,Public Health Grant  - per capita,95.15419847328245,Inner London,1
+Westminster,Public Health Grant  - per capita,171.9285364659814,Inner London,1
+Barking and Dagenham,Social Care Support Grant - per capita,99.2462311557789,Outer London,1
+Barnet,Social Care Support Grant - per capita,70.07706139224248,Outer London,1
+Bexley,Social Care Support Grant - per capita,72.15415821501014,Outer London,1
+Brent,Social Care Support Grant - per capita,85.95350206003532,Outer London,1
+Bromley,Social Care Support Grant - per capita,23.215151515151515,Outer London,1
+Camden,Social Care Support Grant - per capita,136.06853879105188,Inner London,1
+Croydon,Social Care Support Grant - per capita,64.0353121801433,Outer London,1
+Ealing,Social Care Support Grant - per capita,80.54208662489785,Outer London,1
+Enfield,Social Care Support Grant - per capita,84.11515151515151,Outer London,1
+Greenwich,Social Care Support Grant - per capita,109.27706675890695,Outer London,1
+Hackney,Social Care Support Grant - per capita,134.47916666666666,Inner London,1
+Hammersmith and Fulham,Social Care Support Grant - per capita,122.8438864628821,Inner London,1
+Haringey,Social Care Support Grant - per capita,95.47312641937926,Inner London,1
+Harrow,Social Care Support Grant - per capita,64.99043245311903,Outer London,1
+Havering,Social Care Support Grant - per capita,71.64885496183206,Outer London,1
+Hillingdon,Social Care Support Grant - per capita,67.27034978751226,Outer London,1
+Hounslow,Social Care Support Grant - per capita,70.26717557251908,Outer London,1
+Islington,Social Care Support Grant - per capita,138.80424746075715,Inner London,1
+Kensington and Chelsea,Social Care Support Grant - per capita,127.88702928870293,Inner London,1
+Kingston upon Thames,Social Care Support Grant - per capita,59.148809523809526,Outer London,1
+Lambeth,Social Care Support Grant - per capita,106.77581863979849,Inner London,1
+Lewisham,Social Care Support Grant - per capita,102.42847638057219,Inner London,1
+Merton,Social Care Support Grant - per capita,63.88011152416357,Outer London,1
+Newham,Social Care Support Grant - per capita,104.53147251495301,Inner London,1
+Redbridge,Social Care Support Grant - per capita,73.52239767966483,Outer London,1
+Richmond upon Thames,Social Care Support Grant - per capita,59.70799180327869,Outer London,1
+Southwark,Social Care Support Grant - per capita,118.17354566135846,Inner London,1
+Sutton,Social Care Support Grant - per capita,60.529580152671755,Outer London,1
+Tower Hamlets,Social Care Support Grant - per capita,109.61005478569126,Inner London,1
+Waltham Forest,Social Care Support Grant - per capita,84.378591954023,Outer London,1
+Wandsworth,Social Care Support Grant - per capita,102.62900763358779,Inner London,1
+Westminster,Social Care Support Grant - per capita,170.14684287812042,Inner London,1
+Barking and Dagenham,Rural Services Delivery Grant - per capita,0.0,Outer London,1
+Barnet,Rural Services Delivery Grant - per capita,0.0,Outer London,1
+Bexley,Rural Services Delivery Grant - per capita,0.0,Outer London,1
+Brent,Rural Services Delivery Grant - per capita,0.0,Outer London,1
+Bromley,Rural Services Delivery Grant - per capita,0.0,Outer London,1
+Camden,Rural Services Delivery Grant - per capita,0.0,Inner London,1
+Croydon,Rural Services Delivery Grant - per capita,0.0,Outer London,1
+Ealing,Rural Services Delivery Grant - per capita,0.0,Outer London,1
+Enfield,Rural Services Delivery Grant - per capita,0.0,Outer London,1
+Greenwich,Rural Services Delivery Grant - per capita,0.0,Outer London,1
+Hackney,Rural Services Delivery Grant - per capita,0.0,Inner London,1
+Hammersmith and Fulham,Rural Services Delivery Grant - per capita,0.0,Inner London,1
+Haringey,Rural Services Delivery Grant - per capita,0.0,Inner London,1
+Harrow,Rural Services Delivery Grant - per capita,0.0,Outer London,1
+Havering,Rural Services Delivery Grant - per capita,0.0,Outer London,1
+Hillingdon,Rural Services Delivery Grant - per capita,0.0,Outer London,1
+Hounslow,Rural Services Delivery Grant - per capita,0.0,Outer London,1
+Islington,Rural Services Delivery Grant - per capita,0.0,Inner London,1
+Kensington and Chelsea,Rural Services Delivery Grant - per capita,0.0,Inner London,1
+Kingston upon Thames,Rural Services Delivery Grant - per capita,0.0,Outer London,1
+Lambeth,Rural Services Delivery Grant - per capita,0.0,Inner London,1
+Lewisham,Rural Services Delivery Grant - per capita,0.0,Inner London,1
+Merton,Rural Services Delivery Grant - per capita,0.0,Outer London,1
+Newham,Rural Services Delivery Grant - per capita,0.0,Inner London,1
+Redbridge,Rural Services Delivery Grant - per capita,0.0,Outer London,1
+Richmond upon Thames,Rural Services Delivery Grant - per capita,0.0,Outer London,1
+Southwark,Rural Services Delivery Grant - per capita,0.0,Inner London,1
+Sutton,Rural Services Delivery Grant - per capita,0.0,Outer London,1
+Tower Hamlets,Rural Services Delivery Grant - per capita,0.0,Inner London,1
+Waltham Forest,Rural Services Delivery Grant - per capita,0.0,Outer London,1
+Wandsworth,Rural Services Delivery Grant - per capita,0.0,Inner London,1
+Westminster,Rural Services Delivery Grant - per capita,0.0,Inner London,1
+Barking and Dagenham,Improved Better Care Fund - per capita,48.91274554591138,Outer London,1
+Barnet,Improved Better Care Fund - per capita,24.716157205240176,Outer London,1
+Bexley,Improved Better Care Fund - per capita,26.83975659229209,Outer London,1
+Brent,Improved Better Care Fund - per capita,39.273101824602705,Outer London,1
+Bromley,Improved Better Care Fund - per capita,23.427272727272726,Outer London,1
+Camden,Improved Better Care Fund - per capita,61.27558305568777,Inner London,1
+Croydon,Improved Better Care Fund - per capita,25.53224155578301,Outer London,1
+Ealing,Improved Better Care Fund - per capita,34.54099700354127,Outer London,1
+Enfield,Improved Better Care Fund - per capita,35.53333333333333,Outer London,1
+Greenwich,Improved Better Care Fund - per capita,53.38637149775164,Outer London,1
+Hackney,Improved Better Care Fund - per capita,64.18595679012346,Inner London,1
+Hammersmith and Fulham,Improved Better Care Fund - per capita,54.7325327510917,Inner London,1
+Haringey,Improved Better Care Fund - per capita,37.11582134746404,Inner London,1
+Harrow,Improved Better Care Fund - per capita,25.503252965939534,Outer London,1
+Havering,Improved Better Care Fund - per capita,26.049618320610687,Outer London,1
+Hillingdon,Improved Better Care Fund - per capita,24.4132069303694,Outer London,1
+Hounslow,Improved Better Care Fund - per capita,28.362248438584317,Outer London,1
+Islington,Improved Better Care Fund - per capita,66.9482917820868,Inner London,1
+Kensington and Chelsea,Improved Better Care Fund - per capita,53.43096234309623,Inner London,1
+Kingston upon Thames,Improved Better Care Fund - per capita,10.952380952380953,Outer London,1
+Lambeth,Improved Better Care Fund - per capita,47.059193954659946,Inner London,1
+Lewisham,Improved Better Care Fund - per capita,49.70725216234198,Inner London,1
+Merton,Improved Better Care Fund - per capita,23.280669144981413,Outer London,1
+Newham,Improved Better Care Fund - per capita,48.968954713756766,Inner London,1
+Redbridge,Improved Better Care Fund - per capita,32.48791492104415,Outer London,1
+Richmond upon Thames,Improved Better Care Fund - per capita,3.9754098360655736,Outer London,1
+Southwark,Improved Better Care Fund - per capita,58.00129996750081,Inner London,1
+Sutton,Improved Better Care Fund - per capita,19.403625954198475,Outer London,1
+Tower Hamlets,Improved Better Care Fund - per capita,54.173380599419914,Inner London,1
+Waltham Forest,Improved Better Care Fund - per capita,34.07327586206897,Outer London,1
+Wandsworth,Improved Better Care Fund - per capita,51.86259541984733,Inner London,1
+Westminster,Improved Better Care Fund - per capita,86.38766519823788,Inner London,1
+Barking and Dagenham,ASC Market Sustainability and Improvement Fund - per capita,18.25034262220192,Outer London,1
+Barnet,ASC Market Sustainability and Improvement Fund - per capita,16.267659902388903,Outer London,1
+Bexley,ASC Market Sustainability and Improvement Fund - per capita,16.47870182555781,Outer London,1
+Brent,ASC Market Sustainability and Improvement Fund - per capita,17.29252501471454,Outer London,1
+Bromley,ASC Market Sustainability and Improvement Fund - per capita,15.781818181818181,Outer London,1
+Camden,ASC Market Sustainability and Improvement Fund - per capita,26.772965254640646,Inner London,1
+Croydon,ASC Market Sustainability and Improvement Fund - per capita,15.68833162743091,Outer London,1
+Ealing,ASC Market Sustainability and Improvement Fund - per capita,16.894579133751023,Outer London,1
+Enfield,ASC Market Sustainability and Improvement Fund - per capita,17.21818181818182,Outer London,1
+Greenwich,ASC Market Sustainability and Improvement Fund - per capita,20.131442407471464,Outer London,1
+Hackney,ASC Market Sustainability and Improvement Fund - per capita,23.71527777777778,Inner London,1
+Hammersmith and Fulham,ASC Market Sustainability and Improvement Fund - per capita,21.93231441048035,Inner London,1
+Haringey,ASC Market Sustainability and Improvement Fund - per capita,19.01211203633611,Inner London,1
+Harrow,ASC Market Sustainability and Improvement Fund - per capita,16.238040566398777,Outer London,1
+Havering,ASC Market Sustainability and Improvement Fund - per capita,16.793893129770993,Outer London,1
+Hillingdon,ASC Market Sustainability and Improvement Fund - per capita,14.890487087283425,Outer London,1
+Hounslow,ASC Market Sustainability and Improvement Fund - per capita,15.17002081887578,Outer London,1
+Islington,ASC Market Sustainability and Improvement Fund - per capita,25.946445060018466,Inner London,1
+Kensington and Chelsea,ASC Market Sustainability and Improvement Fund - per capita,26.443514644351463,Inner London,1
+Kingston upon Thames,ASC Market Sustainability and Improvement Fund - per capita,14.928571428571429,Outer London,1
+Lambeth,ASC Market Sustainability and Improvement Fund - per capita,20.78715365239295,Inner London,1
+Lewisham,ASC Market Sustainability and Improvement Fund - per capita,19.906852960745177,Inner London,1
+Merton,ASC Market Sustainability and Improvement Fund - per capita,15.20446096654275,Outer London,1
+Newham,ASC Market Sustainability and Improvement Fund - per capita,18.29678154371974,Inner London,1
+Redbridge,ASC Market Sustainability and Improvement Fund - per capita,15.73316145665485,Outer London,1
+Richmond upon Thames,ASC Market Sustainability and Improvement Fund - per capita,14.81045081967213,Outer London,1
+Southwark,ASC Market Sustainability and Improvement Fund - per capita,22.3334416639584,Inner London,1
+Sutton,ASC Market Sustainability and Improvement Fund - per capita,15.391221374045802,Outer London,1
+Tower Hamlets,ASC Market Sustainability and Improvement Fund - per capita,20.654205607476637,Inner London,1
+Waltham Forest,ASC Market Sustainability and Improvement Fund - per capita,17.10847701149425,Outer London,1
+Wandsworth,ASC Market Sustainability and Improvement Fund - per capita,17.331297709923664,Inner London,1
+Westminster,ASC Market Sustainability and Improvement Fund - per capita,28.33578071463534,Inner London,1
+Barking and Dagenham,Services Grant - per capita,1.8410232983097305,Outer London,1
+Barnet,Services Grant - per capita,1.0531723606473158,Outer London,1
+Bexley,Services Grant - per capita,1.0385395537525355,Outer London,1
+Brent,Services Grant - per capita,1.8157739846968806,Outer London,1
+Bromley,Services Grant - per capita,0.8151515151515152,Outer London,1
+Camden,Services Grant - per capita,3.0414088529271774,Inner London,1
+Croydon,Services Grant - per capita,1.3229273285568066,Outer London,1
+Ealing,Services Grant - per capita,1.4655407245982022,Outer London,1
+Enfield,Services Grant - per capita,1.5696969696969696,Outer London,1
+Greenwich,Services Grant - per capita,2.0166032514700793,Outer London,1
+Hackney,Services Grant - per capita,2.7276234567901234,Inner London,1
+Hammersmith and Fulham,Services Grant - per capita,3.373362445414847,Inner London,1
+Haringey,Services Grant - per capita,2.165026495079485,Inner London,1
+Harrow,Services Grant - per capita,1.0600841944125525,Outer London,1
+Havering,Services Grant - per capita,0.9198473282442748,Outer London,1
+Hillingdon,Services Grant - per capita,1.0787839163125204,Outer London,1
+Hounslow,Services Grant - per capita,1.193615544760583,Outer London,1
+Islington,Services Grant - per capita,3.125577100646353,Inner London,1
+Kensington and Chelsea,Services Grant - per capita,2.5662482566248257,Inner London,1
+Kingston upon Thames,Services Grant - per capita,0.9166666666666666,Outer London,1
+Lambeth,Services Grant - per capita,2.452770780856423,Inner London,1
+Lewisham,Services Grant - per capita,2.208915502328676,Inner London,1
+Merton,Services Grant - per capita,1.16635687732342,Outer London,1
+Newham,Services Grant - per capita,2.215892908003418,Inner London,1
+Redbridge,Services Grant - per capita,1.2020625201417983,Outer London,1
+Richmond upon Thames,Services Grant - per capita,0.8094262295081968,Outer London,1
+Southwark,Services Grant - per capita,2.62918427039324,Inner London,1
+Sutton,Services Grant - per capita,1.2118320610687023,Outer London,1
+Tower Hamlets,Services Grant - per capita,2.5104737350950694,Inner London,1
+Waltham Forest,Services Grant - per capita,1.7600574712643677,Outer London,1
+Wandsworth,Services Grant - per capita,1.5755725190839696,Inner London,1
+Westminster,Services Grant - per capita,3.0885952031326482,Inner London,1
+Barking and Dagenham,Adult Social Care Discharge Fund - per capita,11.429876656007309,Outer London,1
+Barnet,Adult Social Care Discharge Fund - per capita,5.77446699203699,Outer London,1
+Bexley,Adult Social Care Discharge Fund - per capita,6.271805273833672,Outer London,1
+Brent,Adult Social Care Discharge Fund - per capita,9.175985874043555,Outer London,1
+Bromley,Adult Social Care Discharge Fund - per capita,5.472727272727273,Outer London,1
+Camden,Adult Social Care Discharge Fund - per capita,14.316991908614945,Inner London,1
+Croydon,Adult Social Care Discharge Fund - per capita,5.967246673490276,Outer London,1
+Ealing,Adult Social Care Discharge Fund - per capita,8.071370198855897,Outer London,1
+Enfield,Adult Social Care Discharge Fund - per capita,8.303030303030303,Outer London,1
+Greenwich,Adult Social Care Discharge Fund - per capita,12.473192666897267,Outer London,1
+Hackney,Adult Social Care Discharge Fund - per capita,14.996141975308642,Inner London,1
+Hammersmith and Fulham,Adult Social Care Discharge Fund - per capita,12.789301310043669,Inner London,1
+Haringey,Adult Social Care Discharge Fund - per capita,8.671461014383043,Inner London,1
+Harrow,Adult Social Care Discharge Fund - per capita,5.958668197474168,Outer London,1
+Havering,Adult Social Care Discharge Fund - per capita,6.087786259541985,Outer London,1
+Hillingdon,Adult Social Care Discharge Fund - per capita,5.7044785877737825,Outer London,1
+Hounslow,Adult Social Care Discharge Fund - per capita,6.62734212352533,Outer London,1
+Islington,Adult Social Care Discharge Fund - per capita,15.64173591874423,Inner London,1
+Kensington and Chelsea,Adult Social Care Discharge Fund - per capita,12.482566248256624,Inner London,1
+Kingston upon Thames,Adult Social Care Discharge Fund - per capita,2.5595238095238093,Outer London,1
+Lambeth,Adult Social Care Discharge Fund - per capita,10.994962216624685,Inner London,1
+Lewisham,Adult Social Care Discharge Fund - per capita,11.613439787092481,Inner London,1
+Merton,Adult Social Care Discharge Fund - per capita,5.441449814126394,Outer London,1
+Newham,Adult Social Care Discharge Fund - per capita,11.441184847621761,Inner London,1
+Redbridge,Adult Social Care Discharge Fund - per capita,7.592652271994844,Outer London,1
+Richmond upon Thames,Adult Social Care Discharge Fund - per capita,0.9272540983606558,Outer London,1
+Southwark,Adult Social Care Discharge Fund - per capita,13.5521611959701,Inner London,1
+Sutton,Adult Social Care Discharge Fund - per capita,4.532442748091603,Outer London,1
+Tower Hamlets,Adult Social Care Discharge Fund - per capita,12.65871737028682,Inner London,1
+Waltham Forest,Adult Social Care Discharge Fund - per capita,7.963362068965517,Outer London,1
+Wandsworth,Adult Social Care Discharge Fund - per capita,12.119083969465649,Inner London,1
+Westminster,Adult Social Care Discharge Fund - per capita,20.18600097895252,Inner London,1
+Barking and Dagenham,Funding Guarantee - per capita,0.0,Outer London,1
+Barnet,Funding Guarantee - per capita,0.0,Outer London,1
+Bexley,Funding Guarantee - per capita,0.0,Outer London,1
+Brent,Funding Guarantee - per capita,3.781636256621542,Outer London,1
+Bromley,Funding Guarantee - per capita,0.0,Outer London,1
+Camden,Funding Guarantee - per capita,0.0,Inner London,1
+Croydon,Funding Guarantee - per capita,0.0,Outer London,1
+Ealing,Funding Guarantee - per capita,0.0,Outer London,1
+Enfield,Funding Guarantee - per capita,0.0,Outer London,1
+Greenwich,Funding Guarantee - per capita,0.0,Outer London,1
+Hackney,Funding Guarantee - per capita,0.0,Inner London,1
+Hammersmith and Fulham,Funding Guarantee - per capita,0.0,Inner London,1
+Haringey,Funding Guarantee - per capita,0.0,Inner London,1
+Harrow,Funding Guarantee - per capita,8.70264064293915,Outer London,1
+Havering,Funding Guarantee - per capita,0.0,Outer London,1
+Hillingdon,Funding Guarantee - per capita,0.0,Outer London,1
+Hounslow,Funding Guarantee - per capita,0.0,Outer London,1
+Islington,Funding Guarantee - per capita,0.0,Inner London,1
+Kensington and Chelsea,Funding Guarantee - per capita,0.0,Inner London,1
+Kingston upon Thames,Funding Guarantee - per capita,8.547619047619047,Outer London,1
+Lambeth,Funding Guarantee - per capita,0.0,Inner London,1
+Lewisham,Funding Guarantee - per capita,0.0,Inner London,1
+Merton,Funding Guarantee - per capita,1.003717472118959,Outer London,1
+Newham,Funding Guarantee - per capita,0.0,Inner London,1
+Redbridge,Funding Guarantee - per capita,0.0,Outer London,1
+Richmond upon Thames,Funding Guarantee - per capita,13.381147540983607,Outer London,1
+Southwark,Funding Guarantee - per capita,0.0,Inner London,1
+Sutton,Funding Guarantee - per capita,3.368320610687023,Outer London,1
+Tower Hamlets,Funding Guarantee - per capita,0.0,Inner London,1
+Waltham Forest,Funding Guarantee - per capita,0.0,Outer London,1
+Wandsworth,Funding Guarantee - per capita,0.0,Inner London,1
+Westminster,Funding Guarantee - per capita,0.0,Inner London,1
+Barking and Dagenham,Flexible Homelessness Support Grant - per capita,20.324349017816356,Outer London,1
+Barnet,Flexible Homelessness Support Grant - per capita,15.032108913434369,Outer London,1
+Bexley,Flexible Homelessness Support Grant - per capita,11.371196754563895,Outer London,1
+Brent,Flexible Homelessness Support Grant - per capita,27.70158917010006,Outer London,1
+Bromley,Flexible Homelessness Support Grant - per capita,11.44848484848485,Outer London,1
+Camden,Flexible Homelessness Support Grant - per capita,13.212755830556878,Inner London,1
+Croydon,Flexible Homelessness Support Grant - per capita,19.063459570112588,Outer London,1
+Ealing,Flexible Homelessness Support Grant - per capita,16.761100517570146,Outer London,1
+Enfield,Flexible Homelessness Support Grant - per capita,34.266666666666666,Outer London,1
+Greenwich,Flexible Homelessness Support Grant - per capita,13.05084745762712,Outer London,1
+Hackney,Flexible Homelessness Support Grant - per capita,23.777006172839506,Inner London,1
+Hammersmith and Fulham,Flexible Homelessness Support Grant - per capita,18.466157205240176,Inner London,1
+Haringey,Flexible Homelessness Support Grant - per capita,32.57002271006813,Inner London,1
+Harrow,Flexible Homelessness Support Grant - per capita,8.962877918101798,Outer London,1
+Havering,Flexible Homelessness Support Grant - per capita,9.782442748091603,Outer London,1
+Hillingdon,Flexible Homelessness Support Grant - per capita,8.597580908793724,Outer London,1
+Hounslow,Flexible Homelessness Support Grant - per capita,10.641915336571826,Outer London,1
+Islington,Flexible Homelessness Support Grant - per capita,48.63342566943675,Inner London,1
+Kensington and Chelsea,Flexible Homelessness Support Grant - per capita,44.609483960948396,Inner London,1
+Kingston upon Thames,Flexible Homelessness Support Grant - per capita,9.81547619047619,Outer London,1
+Lambeth,Flexible Homelessness Support Grant - per capita,19.90869017632242,Inner London,1
+Lewisham,Flexible Homelessness Support Grant - per capita,17.548236859614104,Inner London,1
+Merton,Flexible Homelessness Support Grant - per capita,6.682156133828996,Outer London,1
+Newham,Flexible Homelessness Support Grant - per capita,32.82255767587582,Inner London,1
+Redbridge,Flexible Homelessness Support Grant - per capita,18.179181437318725,Outer London,1
+Richmond upon Thames,Flexible Homelessness Support Grant - per capita,7.515368852459017,Outer London,1
+Southwark,Flexible Homelessness Support Grant - per capita,18.956776080597987,Inner London,1
+Sutton,Flexible Homelessness Support Grant - per capita,8.73091603053435,Outer London,1
+Tower Hamlets,Flexible Homelessness Support Grant - per capita,19.59394134708347,Inner London,1
+Waltham Forest,Flexible Homelessness Support Grant - per capita,20.25862068965517,Outer London,1
+Wandsworth,Flexible Homelessness Support Grant - per capita,14.085496183206107,Inner London,1
+Westminster,Flexible Homelessness Support Grant - per capita,34.16054821341165,Inner London,1
+Barking and Dagenham,Housing Benefit Subsidy Admin Grant - per capita,3.5084513476473274,Outer London,1
+Barnet,Housing Benefit Subsidy Admin Grant - per capita,3.2083226303621886,Outer London,1
+Bexley,Housing Benefit Subsidy Admin Grant - per capita,2.791075050709939,Outer London,1
+Brent,Housing Benefit Subsidy Admin Grant - per capita,3.92583872866392,Outer London,1
+Bromley,Housing Benefit Subsidy Admin Grant - per capita,2.2303030303030305,Outer London,1
+Camden,Housing Benefit Subsidy Admin Grant - per capita,6.206568300809138,Inner London,1
+Croydon,Housing Benefit Subsidy Admin Grant - per capita,4.0097236438075745,Outer London,1
+Ealing,Housing Benefit Subsidy Admin Grant - per capita,2.928357395804958,Outer London,1
+Enfield,Housing Benefit Subsidy Admin Grant - per capita,4.248484848484848,Outer London,1
+Greenwich,Housing Benefit Subsidy Admin Grant - per capita,6.087858872362505,Outer London,1
+Hackney,Housing Benefit Subsidy Admin Grant - per capita,6.658950617283951,Inner London,1
+Hammersmith and Fulham,Housing Benefit Subsidy Admin Grant - per capita,5.393013100436681,Inner London,1
+Haringey,Housing Benefit Subsidy Admin Grant - per capita,0.0,Inner London,1
+Harrow,Housing Benefit Subsidy Admin Grant - per capita,0.0,Outer London,1
+Havering,Housing Benefit Subsidy Admin Grant - per capita,0.366412213740458,Outer London,1
+Hillingdon,Housing Benefit Subsidy Admin Grant - per capita,3.1807780320366135,Outer London,1
+Hounslow,Housing Benefit Subsidy Admin Grant - per capita,3.393476752255378,Outer London,1
+Islington,Housing Benefit Subsidy Admin Grant - per capita,6.578947368421052,Inner London,1
+Kensington and Chelsea,Housing Benefit Subsidy Admin Grant - per capita,6.478382147838214,Inner London,1
+Kingston upon Thames,Housing Benefit Subsidy Admin Grant - per capita,2.2976190476190474,Outer London,1
+Lambeth,Housing Benefit Subsidy Admin Grant - per capita,7.096977329974811,Inner London,1
+Lewisham,Housing Benefit Subsidy Admin Grant - per capita,5.179640718562874,Inner London,1
+Merton,Housing Benefit Subsidy Admin Grant - per capita,2.58364312267658,Outer London,1
+Newham,Housing Benefit Subsidy Admin Grant - per capita,6.09512959270863,Inner London,1
+Redbridge,Housing Benefit Subsidy Admin Grant - per capita,2.5942636158556236,Outer London,1
+Richmond upon Thames,Housing Benefit Subsidy Admin Grant - per capita,2.064549180327869,Outer London,1
+Southwark,Housing Benefit Subsidy Admin Grant - per capita,0.0,Inner London,1
+Sutton,Housing Benefit Subsidy Admin Grant - per capita,2.4522900763358777,Outer London,1
+Tower Hamlets,Housing Benefit Subsidy Admin Grant - per capita,5.755720270705768,Inner London,1
+Waltham Forest,Housing Benefit Subsidy Admin Grant - per capita,3.067528735632184,Outer London,1
+Wandsworth,Housing Benefit Subsidy Admin Grant - per capita,4.036641221374046,Inner London,1
+Westminster,Housing Benefit Subsidy Admin Grant - per capita,7.924620655898189,Inner London,1
+Barking and Dagenham,New Homes Bonus - per capita,9.77615349474646,Outer London,1
+Barnet,New Homes Bonus - per capita,6.411507834574878,Outer London,1
+Bexley,New Homes Bonus - per capita,3.821501014198783,Outer London,1
+Brent,New Homes Bonus - per capita,8.552089464390818,Outer London,1
+Bromley,New Homes Bonus - per capita,1.2393939393939395,Outer London,1
+Camden,New Homes Bonus - per capita,0.4997620180866254,Inner London,1
+Croydon,New Homes Bonus - per capita,6.322927328556807,Outer London,1
+Ealing,New Homes Bonus - per capita,14.464723508580768,Outer London,1
+Enfield,New Homes Bonus - per capita,0.16666666666666666,Outer London,1
+Greenwich,New Homes Bonus - per capita,3.770321687997233,Outer London,1
+Hackney,New Homes Bonus - per capita,0.7137345679012346,Inner London,1
+Hammersmith and Fulham,New Homes Bonus - per capita,8.7117903930131,Inner London,1
+Haringey,New Homes Bonus - per capita,6.771385314155943,Inner London,1
+Harrow,New Homes Bonus - per capita,0.31381553769613474,Outer London,1
+Havering,New Homes Bonus - per capita,2.763358778625954,Outer London,1
+Hillingdon,New Homes Bonus - per capita,1.7685518143184047,Outer London,1
+Hounslow,New Homes Bonus - per capita,9.378903539208883,Outer London,1
+Islington,New Homes Bonus - per capita,2.839335180055402,Inner London,1
+Kensington and Chelsea,New Homes Bonus - per capita,0.24407252440725244,Inner London,1
+Kingston upon Thames,New Homes Bonus - per capita,2.9583333333333335,Outer London,1
+Lambeth,New Homes Bonus - per capita,3.857052896725441,Inner London,1
+Lewisham,New Homes Bonus - per capita,6.6300731869594145,Inner London,1
+Merton,New Homes Bonus - per capita,0.7063197026022305,Outer London,1
+Newham,New Homes Bonus - per capita,7.957846767302763,Inner London,1
+Redbridge,New Homes Bonus - per capita,0.0837898807605543,Outer London,1
+Richmond upon Thames,New Homes Bonus - per capita,0.06659836065573771,Outer London,1
+Southwark,New Homes Bonus - per capita,14.44588885277868,Inner London,1
+Sutton,New Homes Bonus - per capita,1.2261450381679388,Outer London,1
+Tower Hamlets,New Homes Bonus - per capita,6.996455043506284,Inner London,1
+Waltham Forest,New Homes Bonus - per capita,4.953304597701149,Outer London,1
+Wandsworth,New Homes Bonus - per capita,19.77709923664122,Inner London,1
+Westminster,New Homes Bonus - per capita,11.948115516397454,Inner London,1
+Barking and Dagenham,The Private Finance Initiative (PFI) - per capita,34.87437185929648,Outer London,1
+Barnet,The Private Finance Initiative (PFI) - per capita,5.741073722065245,Outer London,1
+Bexley,The Private Finance Initiative (PFI) - per capita,12.105476673427992,Outer London,1
+Brent,The Private Finance Initiative (PFI) - per capita,16.312536786344907,Outer London,1
+Bromley,The Private Finance Initiative (PFI) - per capita,0.0,Outer London,1
+Camden,The Private Finance Initiative (PFI) - per capita,0.0,Inner London,1
+Croydon,The Private Finance Initiative (PFI) - per capita,7.341351074718526,Outer London,1
+Ealing,The Private Finance Initiative (PFI) - per capita,43.05638790520294,Outer London,1
+Enfield,The Private Finance Initiative (PFI) - per capita,20.6030303030303,Outer London,1
+Greenwich,The Private Finance Initiative (PFI) - per capita,49.747492217225876,Outer London,1
+Hackney,The Private Finance Initiative (PFI) - per capita,5.35108024691358,Inner London,1
+Hammersmith and Fulham,The Private Finance Initiative (PFI) - per capita,7.800218340611353,Inner London,1
+Haringey,The Private Finance Initiative (PFI) - per capita,0.0,Inner London,1
+Harrow,The Private Finance Initiative (PFI) - per capita,9.601990049751244,Outer London,1
+Havering,The Private Finance Initiative (PFI) - per capita,0.0,Outer London,1
+Hillingdon,The Private Finance Initiative (PFI) - per capita,5.8940830336711345,Outer London,1
+Hounslow,The Private Finance Initiative (PFI) - per capita,45.66967383761277,Outer London,1
+Islington,The Private Finance Initiative (PFI) - per capita,4.732225300092336,Inner London,1
+Kensington and Chelsea,The Private Finance Initiative (PFI) - per capita,0.0,Inner London,1
+Kingston upon Thames,The Private Finance Initiative (PFI) - per capita,0.0,Outer London,1
+Lambeth,The Private Finance Initiative (PFI) - per capita,11.574307304785894,Inner London,1
+Lewisham,The Private Finance Initiative (PFI) - per capita,88.35329341317366,Inner London,1
+Merton,The Private Finance Initiative (PFI) - per capita,22.29089219330855,Outer London,1
+Newham,The Private Finance Initiative (PFI) - per capita,16.08088863571632,Inner London,1
+Redbridge,The Private Finance Initiative (PFI) - per capita,0.0,Outer London,1
+Richmond upon Thames,The Private Finance Initiative (PFI) - per capita,11.239754098360656,Outer London,1
+Southwark,The Private Finance Initiative (PFI) - per capita,0.0,Inner London,1
+Sutton,The Private Finance Initiative (PFI) - per capita,0.0,Outer London,1
+Tower Hamlets,The Private Finance Initiative (PFI) - per capita,30.228810828230745,Inner London,1
+Waltham Forest,The Private Finance Initiative (PFI) - per capita,111.54094827586206,Outer London,1
+Wandsworth,The Private Finance Initiative (PFI) - per capita,0.0,Inner London,1
+Westminster,The Private Finance Initiative (PFI) - per capita,2.006852667645619,Inner London,1
+Barking and Dagenham,Police Officer Uplift Grant - per capita,0.0,Outer London,1
+Barnet,Police Officer Uplift Grant - per capita,0.0,Outer London,1
+Bexley,Police Officer Uplift Grant - per capita,0.0,Outer London,1
+Brent,Police Officer Uplift Grant - per capita,0.0,Outer London,1
+Bromley,Police Officer Uplift Grant - per capita,0.0,Outer London,1
+Camden,Police Officer Uplift Grant - per capita,0.0,Inner London,1
+Croydon,Police Officer Uplift Grant - per capita,0.0,Outer London,1
+Ealing,Police Officer Uplift Grant - per capita,0.0,Outer London,1
+Enfield,Police Officer Uplift Grant - per capita,0.0,Outer London,1
+Greenwich,Police Officer Uplift Grant - per capita,0.0,Outer London,1
+Hackney,Police Officer Uplift Grant - per capita,0.0,Inner London,1
+Hammersmith and Fulham,Police Officer Uplift Grant - per capita,0.0,Inner London,1
+Haringey,Police Officer Uplift Grant - per capita,0.0,Inner London,1
+Harrow,Police Officer Uplift Grant - per capita,0.0,Outer London,1
+Havering,Police Officer Uplift Grant - per capita,0.0,Outer London,1
+Hillingdon,Police Officer Uplift Grant - per capita,0.0,Outer London,1
+Hounslow,Police Officer Uplift Grant - per capita,0.0,Outer London,1
+Islington,Police Officer Uplift Grant - per capita,0.0,Inner London,1
+Kensington and Chelsea,Police Officer Uplift Grant - per capita,0.0,Inner London,1
+Kingston upon Thames,Police Officer Uplift Grant - per capita,0.0,Outer London,1
+Lambeth,Police Officer Uplift Grant - per capita,0.0,Inner London,1
+Lewisham,Police Officer Uplift Grant - per capita,0.0,Inner London,1
+Merton,Police Officer Uplift Grant - per capita,0.0,Outer London,1
+Newham,Police Officer Uplift Grant - per capita,0.0,Inner London,1
+Redbridge,Police Officer Uplift Grant - per capita,0.0,Outer London,1
+Richmond upon Thames,Police Officer Uplift Grant - per capita,0.0,Outer London,1
+Southwark,Police Officer Uplift Grant - per capita,0.0,Inner London,1
+Sutton,Police Officer Uplift Grant - per capita,0.0,Outer London,1
+Tower Hamlets,Police Officer Uplift Grant - per capita,0.0,Inner London,1
+Waltham Forest,Police Officer Uplift Grant - per capita,0.0,Outer London,1
+Wandsworth,Police Officer Uplift Grant - per capita,0.0,Inner London,1
+Westminster,Police Officer Uplift Grant - per capita,0.0,Inner London,1
+Barking and Dagenham,Other grants within AEF  - per capita,4.655093650068524,Outer London,1
+Barnet,Other grants within AEF  - per capita,1.4564603133829952,Outer London,1
+Bexley,Other grants within AEF  - per capita,22.69371196754564,Outer London,1
+Brent,Other grants within AEF  - per capita,44.39670394349618,Outer London,1
+Bromley,Other grants within AEF  - per capita,61.027272727272724,Outer London,1
+Camden,Other grants within AEF  - per capita,105.50214183722038,Inner London,1
+Croydon,Other grants within AEF  - per capita,65.79324462640737,Outer London,1
+Ealing,Other grants within AEF  - per capita,14.780713701988558,Outer London,1
+Enfield,Other grants within AEF  - per capita,100.85151515151514,Outer London,1
+Greenwich,Other grants within AEF  - per capita,11.912832929782082,Outer London,1
+Hackney,Other grants within AEF  - per capita,54.48688271604938,Inner London,1
+Hammersmith and Fulham,Other grants within AEF  - per capita,11.577510917030567,Inner London,1
+Haringey,Other grants within AEF  - per capita,107.91445874337623,Inner London,1
+Harrow,Other grants within AEF  - per capita,0.0,Outer London,1
+Havering,Other grants within AEF  - per capita,85.04961832061069,Outer London,1
+Hillingdon,Other grants within AEF  - per capita,103.57960117685518,Outer London,1
+Hounslow,Other grants within AEF  - per capita,49.951422623178345,Outer London,1
+Islington,Other grants within AEF  - per capita,44.963065558633424,Inner London,1
+Kensington and Chelsea,Other grants within AEF  - per capita,38.04044630404463,Inner London,1
+Kingston upon Thames,Other grants within AEF  - per capita,26.107142857142858,Outer London,1
+Lambeth,Other grants within AEF  - per capita,112.7235516372796,Inner London,1
+Lewisham,Other grants within AEF  - per capita,0.0,Inner London,1
+Merton,Other grants within AEF  - per capita,34.27509293680298,Outer London,1
+Newham,Other grants within AEF  - per capita,5.733409285103959,Inner London,1
+Redbridge,Other grants within AEF  - per capita,45.96841766032871,Outer London,1
+Richmond upon Thames,Other grants within AEF  - per capita,50.317622950819676,Outer London,1
+Southwark,Other grants within AEF  - per capita,537.4780630484238,Inner London,1
+Sutton,Other grants within AEF  - per capita,20.0381679389313,Outer London,1
+Tower Hamlets,Other grants within AEF  - per capita,21.14727682887528,Inner London,1
+Waltham Forest,Other grants within AEF  - per capita,17.201867816091955,Outer London,1
+Wandsworth,Other grants within AEF  - per capita,28.287022900763358,Inner London,1
+Westminster,Other grants within AEF  - per capita,82.72148800783162,Inner London,1
+Barking and Dagenham,Adult and Community Learning from the ESFA - per capita,8.460484239378712,Outer London,1
+Barnet,Adult and Community Learning from the ESFA - per capita,0.0,Outer London,1
+Bexley,Adult and Community Learning from the ESFA - per capita,12.86815415821501,Outer London,1
+Brent,Adult and Community Learning from the ESFA - per capita,0.0,Outer London,1
+Bromley,Adult and Community Learning from the ESFA - per capita,0.09090909090909091,Outer London,1
+Camden,Adult and Community Learning from the ESFA - per capita,6.663493574488339,Inner London,1
+Croydon,Adult and Community Learning from the ESFA - per capita,11.847492323439099,Outer London,1
+Ealing,Adult and Community Learning from the ESFA - per capita,0.0,Outer London,1
+Enfield,Adult and Community Learning from the ESFA - per capita,0.0,Outer London,1
+Greenwich,Adult and Community Learning from the ESFA - per capita,6.776202006226219,Outer London,1
+Hackney,Adult and Community Learning from the ESFA - per capita,0.0,Inner London,1
+Hammersmith and Fulham,Adult and Community Learning from the ESFA - per capita,0.0,Inner London,1
+Haringey,Adult and Community Learning from the ESFA - per capita,6.61998485995458,Inner London,1
+Harrow,Adult and Community Learning from the ESFA - per capita,1.8446230386528895,Outer London,1
+Havering,Adult and Community Learning from the ESFA - per capita,4.713740458015267,Outer London,1
+Hillingdon,Adult and Community Learning from the ESFA - per capita,6.178489702517163,Outer London,1
+Hounslow,Adult and Community Learning from the ESFA - per capita,10.006939625260236,Outer London,1
+Islington,Adult and Community Learning from the ESFA - per capita,5.212373037857803,Inner London,1
+Kensington and Chelsea,Adult and Community Learning from the ESFA - per capita,0.0,Inner London,1
+Kingston upon Thames,Adult and Community Learning from the ESFA - per capita,0.0,Outer London,1
+Lambeth,Adult and Community Learning from the ESFA - per capita,8.265113350125944,Inner London,1
+Lewisham,Adult and Community Learning from the ESFA - per capita,12.165668662674651,Inner London,1
+Merton,Adult and Community Learning from the ESFA - per capita,0.14869888475836432,Outer London,1
+Newham,Adult and Community Learning from the ESFA - per capita,0.0,Inner London,1
+Redbridge,Adult and Community Learning from the ESFA - per capita,8.894618111504995,Outer London,1
+Richmond upon Thames,Adult and Community Learning from the ESFA - per capita,0.0,Outer London,1
+Southwark,Adult and Community Learning from the ESFA - per capita,0.0,Inner London,1
+Sutton,Adult and Community Learning from the ESFA - per capita,0.7824427480916031,Outer London,1
+Tower Hamlets,Adult and Community Learning from the ESFA - per capita,0.11601675797615212,Inner London,1
+Waltham Forest,Adult and Community Learning from the ESFA - per capita,1.9827586206896552,Outer London,1
+Wandsworth,Adult and Community Learning from the ESFA - per capita,6.1709923664122135,Inner London,1
+Westminster,Adult and Community Learning from the ESFA - per capita,45.55066079295154,Inner London,1
+Barking and Dagenham,Sixth Form Funding from the ESFA - per capita,54.4540886249429,Outer London,1
+Barnet,Sixth Form Funding from the ESFA - per capita,0.0,Outer London,1
+Bexley,Sixth Form Funding from the ESFA - per capita,0.0,Outer London,1
+Brent,Sixth Form Funding from the ESFA - per capita,11.595055915244261,Outer London,1
+Bromley,Sixth Form Funding from the ESFA - per capita,9.057575757575757,Outer London,1
+Camden,Sixth Form Funding from the ESFA - per capita,0.0,Inner London,1
+Croydon,Sixth Form Funding from the ESFA - per capita,0.0,Outer London,1
+Ealing,Sixth Form Funding from the ESFA - per capita,32.37809861073277,Outer London,1
+Enfield,Sixth Form Funding from the ESFA - per capita,43.127272727272725,Outer London,1
+Greenwich,Sixth Form Funding from the ESFA - per capita,22.013144240747145,Outer London,1
+Hackney,Sixth Form Funding from the ESFA - per capita,21.89814814814815,Inner London,1
+Hammersmith and Fulham,Sixth Form Funding from the ESFA - per capita,28.444323144104803,Inner London,1
+Haringey,Sixth Form Funding from the ESFA - per capita,0.0,Inner London,1
+Harrow,Sixth Form Funding from the ESFA - per capita,0.7003444316877153,Outer London,1
+Havering,Sixth Form Funding from the ESFA - per capita,0.0,Outer London,1
+Hillingdon,Sixth Form Funding from the ESFA - per capita,4.668192219679634,Outer London,1
+Hounslow,Sixth Form Funding from the ESFA - per capita,0.0,Outer London,1
+Islington,Sixth Form Funding from the ESFA - per capita,15.784856879039705,Inner London,1
+Kensington and Chelsea,Sixth Form Funding from the ESFA - per capita,0.0,Inner London,1
+Kingston upon Thames,Sixth Form Funding from the ESFA - per capita,0.0,Outer London,1
+Lambeth,Sixth Form Funding from the ESFA - per capita,0.0,Inner London,1
+Lewisham,Sixth Form Funding from the ESFA - per capita,10.00998003992016,Inner London,1
+Merton,Sixth Form Funding from the ESFA - per capita,39.60966542750929,Outer London,1
+Newham,Sixth Form Funding from the ESFA - per capita,13.209911706066647,Inner London,1
+Redbridge,Sixth Form Funding from the ESFA - per capita,74.70512407347728,Outer London,1
+Richmond upon Thames,Sixth Form Funding from the ESFA - per capita,0.0,Outer London,1
+Southwark,Sixth Form Funding from the ESFA - per capita,0.0,Inner London,1
+Sutton,Sixth Form Funding from the ESFA - per capita,6.50763358778626,Outer London,1
+Tower Hamlets,Sixth Form Funding from the ESFA - per capita,49.332903641637124,Inner London,1
+Waltham Forest,Sixth Form Funding from the ESFA - per capita,0.0,Outer London,1
+Wandsworth,Sixth Form Funding from the ESFA - per capita,3.477862595419847,Inner London,1
+Westminster,Sixth Form Funding from the ESFA - per capita,0.0,Inner London,1
+Barking and Dagenham,Mandatory Rent Allowances: subsidy  - per capita,145.01598903608954,Outer London,1
+Barnet,Mandatory Rent Allowances: subsidy  - per capita,318.45877215515026,Outer London,1
+Bexley,Mandatory Rent Allowances: subsidy  - per capita,232.57200811359027,Outer London,1
+Brent,Mandatory Rent Allowances: subsidy  - per capita,533.8552089464391,Outer London,1
+Bromley,Mandatory Rent Allowances: subsidy  - per capita,178.93030303030304,Outer London,1
+Camden,Mandatory Rent Allowances: subsidy  - per capita,306.7301285102332,Inner London,1
+Croydon,Mandatory Rent Allowances: subsidy  - per capita,215.32241555783008,Outer London,1
+Ealing,Mandatory Rent Allowances: subsidy  - per capita,268.8558975755925,Outer London,1
+Enfield,Mandatory Rent Allowances: subsidy  - per capita,397.76666666666665,Outer London,1
+Greenwich,Mandatory Rent Allowances: subsidy  - per capita,249.9584918713248,Outer London,1
+Hackney,Mandatory Rent Allowances: subsidy  - per capita,748.3256172839506,Inner London,1
+Hammersmith and Fulham,Mandatory Rent Allowances: subsidy  - per capita,280.5076419213974,Inner London,1
+Haringey,Mandatory Rent Allowances: subsidy  - per capita,591.222558667676,Inner London,1
+Harrow,Mandatory Rent Allowances: subsidy  - per capita,255.40757749712972,Outer London,1
+Havering,Mandatory Rent Allowances: subsidy  - per capita,169.63740458015266,Outer London,1
+Hillingdon,Mandatory Rent Allowances: subsidy  - per capita,204.05034324942793,Outer London,1
+Hounslow,Mandatory Rent Allowances: subsidy  - per capita,209.00416377515614,Outer London,1
+Islington,Mandatory Rent Allowances: subsidy  - per capita,333.1809787626962,Inner London,1
+Kensington and Chelsea,Mandatory Rent Allowances: subsidy  - per capita,424.9511854951185,Inner London,1
+Kingston upon Thames,Mandatory Rent Allowances: subsidy  - per capita,173.77380952380952,Outer London,1
+Lambeth,Mandatory Rent Allowances: subsidy  - per capita,285.7934508816121,Inner London,1
+Lewisham,Mandatory Rent Allowances: subsidy  - per capita,387.6214238190286,Inner London,1
+Merton,Mandatory Rent Allowances: subsidy  - per capita,233.271375464684,Outer London,1
+Newham,Mandatory Rent Allowances: subsidy  - per capita,0.0,Inner London,1
+Redbridge,Mandatory Rent Allowances: subsidy  - per capita,305.47534643893005,Outer London,1
+Richmond upon Thames,Mandatory Rent Allowances: subsidy  - per capita,216.11168032786884,Outer London,1
+Southwark,Mandatory Rent Allowances: subsidy  - per capita,149.5742606434839,Inner London,1
+Sutton,Mandatory Rent Allowances: subsidy  - per capita,124.83778625954199,Outer London,1
+Tower Hamlets,Mandatory Rent Allowances: subsidy  - per capita,368.34676119883983,Inner London,1
+Waltham Forest,Mandatory Rent Allowances: subsidy  - per capita,497.42816091954023,Outer London,1
+Wandsworth,Mandatory Rent Allowances: subsidy  - per capita,211.72824427480916,Inner London,1
+Westminster,Mandatory Rent Allowances: subsidy  - per capita,477.44003915810083,Inner London,1
+Barking and Dagenham,Mandatory Rent Rebates outside HRA: subsidy  - per capita,47.38693467336683,Outer London,1
+Barnet,Mandatory Rent Rebates outside HRA: subsidy  - per capita,42.897508348317494,Outer London,1
+Bexley,Mandatory Rent Rebates outside HRA: subsidy  - per capita,0.0,Outer London,1
+Brent,Mandatory Rent Rebates outside HRA: subsidy  - per capita,52.88993525603296,Outer London,1
+Bromley,Mandatory Rent Rebates outside HRA: subsidy  - per capita,34.00606060606061,Outer London,1
+Camden,Mandatory Rent Rebates outside HRA: subsidy  - per capita,0.0,Inner London,1
+Croydon,Mandatory Rent Rebates outside HRA: subsidy  - per capita,53.36233367451382,Outer London,1
+Ealing,Mandatory Rent Rebates outside HRA: subsidy  - per capita,80.0817216017434,Outer London,1
+Enfield,Mandatory Rent Rebates outside HRA: subsidy  - per capita,126.73333333333333,Outer London,1
+Greenwich,Mandatory Rent Rebates outside HRA: subsidy  - per capita,45.52404012452438,Outer London,1
+Hackney,Mandatory Rent Rebates outside HRA: subsidy  - per capita,121.26157407407408,Inner London,1
+Hammersmith and Fulham,Mandatory Rent Rebates outside HRA: subsidy  - per capita,44.48144104803494,Inner London,1
+Haringey,Mandatory Rent Rebates outside HRA: subsidy  - per capita,101.39666919000757,Inner London,1
+Harrow,Mandatory Rent Rebates outside HRA: subsidy  - per capita,0.0,Outer London,1
+Havering,Mandatory Rent Rebates outside HRA: subsidy  - per capita,23.81297709923664,Outer London,1
+Hillingdon,Mandatory Rent Rebates outside HRA: subsidy  - per capita,9.391958156260216,Outer London,1
+Hounslow,Mandatory Rent Rebates outside HRA: subsidy  - per capita,8.927827897293547,Outer London,1
+Islington,Mandatory Rent Rebates outside HRA: subsidy  - per capita,0.0,Inner London,1
+Kensington and Chelsea,Mandatory Rent Rebates outside HRA: subsidy  - per capita,217.67085076708508,Inner London,1
+Kingston upon Thames,Mandatory Rent Rebates outside HRA: subsidy  - per capita,39.63690476190476,Outer London,1
+Lambeth,Mandatory Rent Rebates outside HRA: subsidy  - per capita,90.50692695214106,Inner London,1
+Lewisham,Mandatory Rent Rebates outside HRA: subsidy  - per capita,35.67198935462409,Inner London,1
+Merton,Mandatory Rent Rebates outside HRA: subsidy  - per capita,23.234200743494423,Outer London,1
+Newham,Mandatory Rent Rebates outside HRA: subsidy  - per capita,113.34662489319282,Inner London,1
+Redbridge,Mandatory Rent Rebates outside HRA: subsidy  - per capita,91.60812117305834,Outer London,1
+Richmond upon Thames,Mandatory Rent Rebates outside HRA: subsidy  - per capita,12.694672131147541,Outer London,1
+Southwark,Mandatory Rent Rebates outside HRA: subsidy  - per capita,65.10887227819305,Inner London,1
+Sutton,Mandatory Rent Rebates outside HRA: subsidy  - per capita,34.1793893129771,Outer London,1
+Tower Hamlets,Mandatory Rent Rebates outside HRA: subsidy  - per capita,81.62423461166613,Inner London,1
+Waltham Forest,Mandatory Rent Rebates outside HRA: subsidy  - per capita,45.55316091954023,Outer London,1
+Wandsworth,Mandatory Rent Rebates outside HRA: subsidy  - per capita,42.25648854961832,Inner London,1
+Westminster,Mandatory Rent Rebates outside HRA: subsidy  - per capita,195.58981889378364,Inner London,1
+Barking and Dagenham,Rent Rebates Granted to HRA Tenants: subsidy - per capita,126.1717679305619,Outer London,1
+Barnet,Rent Rebates Granted to HRA Tenants: subsidy - per capita,48.95967120472643,Outer London,1
+Bexley,Rent Rebates Granted to HRA Tenants: subsidy - per capita,0.0,Outer London,1
+Brent,Rent Rebates Granted to HRA Tenants: subsidy - per capita,57.26309593878752,Outer London,1
+Bromley,Rent Rebates Granted to HRA Tenants: subsidy - per capita,0.0,Outer London,1
+Camden,Rent Rebates Granted to HRA Tenants: subsidy - per capita,287.73917182294144,Inner London,1
+Croydon,Rent Rebates Granted to HRA Tenants: subsidy - per capita,62.60491299897646,Outer London,1
+Ealing,Rent Rebates Granted to HRA Tenants: subsidy - per capita,66.51321165894852,Outer London,1
+Enfield,Rent Rebates Granted to HRA Tenants: subsidy - per capita,65.28484848484848,Outer London,1
+Greenwich,Rent Rebates Granted to HRA Tenants: subsidy - per capita,134.56243514354895,Outer London,1
+Hackney,Rent Rebates Granted to HRA Tenants: subsidy - per capita,247.43827160493828,Inner London,1
+Hammersmith and Fulham,Rent Rebates Granted to HRA Tenants: subsidy - per capita,138.72270742358077,Inner London,1
+Haringey,Rent Rebates Granted to HRA Tenants: subsidy - per capita,185.82513247539742,Inner London,1
+Harrow,Rent Rebates Granted to HRA Tenants: subsidy - per capita,98.69881362418676,Outer London,1
+Havering,Rent Rebates Granted to HRA Tenants: subsidy - per capita,95.2442748091603,Outer London,1
+Hillingdon,Rent Rebates Granted to HRA Tenants: subsidy - per capita,77.53514220333442,Outer London,1
+Hounslow,Rent Rebates Granted to HRA Tenants: subsidy - per capita,106.42609299097849,Outer London,1
+Islington,Rent Rebates Granted to HRA Tenants: subsidy - per capita,336.53739612188366,Inner London,1
+Kensington and Chelsea,Rent Rebates Granted to HRA Tenants: subsidy - per capita,144.721059972106,Inner London,1
+Kingston upon Thames,Rent Rebates Granted to HRA Tenants: subsidy - per capita,78.69047619047619,Outer London,1
+Lambeth,Rent Rebates Granted to HRA Tenants: subsidy - per capita,129.56863979848868,Inner London,1
+Lewisham,Rent Rebates Granted to HRA Tenants: subsidy - per capita,91.73985362608117,Inner London,1
+Merton,Rent Rebates Granted to HRA Tenants: subsidy - per capita,0.0,Outer London,1
+Newham,Rent Rebates Granted to HRA Tenants: subsidy - per capita,489.4901737396753,Inner London,1
+Redbridge,Rent Rebates Granted to HRA Tenants: subsidy - per capita,35.172413793103445,Outer London,1
+Richmond upon Thames,Rent Rebates Granted to HRA Tenants: subsidy - per capita,0.0,Outer London,1
+Southwark,Rent Rebates Granted to HRA Tenants: subsidy - per capita,196.97107572310694,Inner London,1
+Sutton,Rent Rebates Granted to HRA Tenants: subsidy - per capita,45.58206106870229,Outer London,1
+Tower Hamlets,Rent Rebates Granted to HRA Tenants: subsidy - per capita,101.9465033838221,Inner London,1
+Waltham Forest,Rent Rebates Granted to HRA Tenants: subsidy - per capita,126.33620689655173,Outer London,1
+Wandsworth,Rent Rebates Granted to HRA Tenants: subsidy - per capita,137.51755725190839,Inner London,1
+Westminster,Rent Rebates Granted to HRA Tenants: subsidy - per capita,195.58981889378364,Inner London,1
+Barking and Dagenham,Other grants outside AEF  - per capita,0.0,Outer London,1
+Barnet,Other grants outside AEF  - per capita,29.283329052144875,Outer London,1
+Bexley,Other grants outside AEF  - per capita,0.0,Outer London,1
+Brent,Other grants outside AEF  - per capita,12.713360800470864,Outer London,1
+Bromley,Other grants outside AEF  - per capita,7.46969696969697,Outer London,1
+Camden,Other grants outside AEF  - per capita,0.0,Inner London,1
+Croydon,Other grants outside AEF  - per capita,0.33009211873080857,Outer London,1
+Ealing,Other grants outside AEF  - per capita,7.044402070280578,Outer London,1
+Enfield,Other grants outside AEF  - per capita,0.0,Outer London,1
+Greenwich,Other grants outside AEF  - per capita,5.2023521272915945,Outer London,1
+Hackney,Other grants outside AEF  - per capita,0.0,Inner London,1
+Hammersmith and Fulham,Other grants outside AEF  - per capita,0.0,Inner London,1
+Haringey,Other grants outside AEF  - per capita,1.0938682816048448,Inner London,1
+Harrow,Other grants outside AEF  - per capita,0.0,Outer London,1
+Havering,Other grants outside AEF  - per capita,5.67175572519084,Outer London,1
+Hillingdon,Other grants outside AEF  - per capita,0.0,Outer London,1
+Hounslow,Other grants outside AEF  - per capita,0.0,Outer London,1
+Islington,Other grants outside AEF  - per capita,0.0,Inner London,1
+Kensington and Chelsea,Other grants outside AEF  - per capita,3.2984658298465828,Inner London,1
+Kingston upon Thames,Other grants outside AEF  - per capita,0.0,Outer London,1
+Lambeth,Other grants outside AEF  - per capita,0.0,Inner London,1
+Lewisham,Other grants outside AEF  - per capita,116.6333998669328,Inner London,1
+Merton,Other grants outside AEF  - per capita,5.697026022304833,Outer London,1
+Newham,Other grants outside AEF  - per capita,9.854742238678439,Inner London,1
+Redbridge,Other grants outside AEF  - per capita,4.601998066387367,Outer London,1
+Richmond upon Thames,Other grants outside AEF  - per capita,1.5573770491803278,Outer London,1
+Southwark,Other grants outside AEF  - per capita,0.0,Inner London,1
+Sutton,Other grants outside AEF  - per capita,13.244274809160306,Outer London,1
+Tower Hamlets,Other grants outside AEF  - per capita,47.921366419593944,Inner London,1
+Waltham Forest,Other grants outside AEF  - per capita,30.301724137931036,Outer London,1
+Wandsworth,Other grants outside AEF  - per capita,2.403053435114504,Inner London,1
+Westminster,Other grants outside AEF  - per capita,0.0,Inner London,1
